@@ -1,0 +1,340 @@
+[
+    {
+        "id": 1,
+        "name": "Aggteleki karszt"
+    },
+    {
+        "id": 2,
+        "name": "Alföld"
+    },
+    {
+        "id": 3,
+        "name": "Ausztria"
+    },
+    {
+        "id": 4,
+        "name": "Bakony",
+        "deprecated": true
+    },
+    {
+        "id": 56,
+        "name": "Bakony, Dél"
+    },
+    {
+        "id": 57,
+        "name": "Bakony, Észak\/Magas"
+    },
+    {
+        "id": 60,
+        "name": "Bakony, Kelet"
+    },
+    {
+        "id": 5,
+        "name": "Balaton, Balaton-felvidék"
+    },
+    {
+        "id": 61,
+        "name": "Baranyai-dombság"
+    },
+    {
+        "id": 6,
+        "name": "Bihar-hegység"
+    },
+    {
+        "id": 62,
+        "name": "Bodrogköz és a Hegyalja"
+    },
+    {
+        "id": 84,
+        "name": "Borsodi-mezőség és a Taktaköz"
+    },
+    {
+        "id": 7,
+        "name": "Börzsöny"
+    },
+    {
+        "id": 8,
+        "name": "Budai-hegység"
+    },
+    {
+        "id": 9,
+        "name": "Budapest"
+    },
+    {
+        "id": 10,
+        "name": "Bükk"
+    },
+    {
+        "id": 11,
+        "name": "Csehország"
+    },
+    {
+        "id": 73,
+        "name": "Csepel-sziget és a Felső-Kiskunság"
+    },
+    {
+        "id": 12,
+        "name": "Cserehát"
+    },
+    {
+        "id": 13,
+        "name": "Cserhát"
+    },
+    {
+        "id": 30,
+        "name": "Dráva-mellék és az Ormánság"
+    },
+    {
+        "id": 81,
+        "name": "Egyéb külföld"
+    },
+    {
+        "id": 14,
+        "name": "Erdély"
+    },
+    {
+        "id": 64,
+        "name": "Etyeki-dombság"
+    },
+    {
+        "id": 15,
+        "name": "Fertő-tó"
+    },
+    {
+        "id": 65,
+        "name": "Gemenc, Tolnai-Sárköz és a Mohácsi-sík"
+    },
+    {
+        "id": 16,
+        "name": "Gerecse"
+    },
+    {
+        "id": 17,
+        "name": "Göcsej"
+    },
+    {
+        "id": 18,
+        "name": "Gödöllői-dombság"
+    },
+    {
+        "id": 66,
+        "name": "Gömör-Borsodi-dombság"
+    },
+    {
+        "id": 67,
+        "name": "Hajdúság"
+    },
+    {
+        "id": 52,
+        "name": "Hajdúság-Nyírség",
+        "deprecated": true
+    },
+    {
+        "id": 85,
+        "name": "Hevesi-síkság"
+    },
+    {
+        "id": 69,
+        "name": "Hortobágy"
+    },
+    {
+        "id": 19,
+        "name": "Horvátország"
+    },
+    {
+        "id": 70,
+        "name": "Jászság"
+    },
+    {
+        "id": 49,
+        "name": "Jászság-Tápióság",
+        "deprecated": true
+    },
+    {
+        "id": 83,
+        "name": "Karancs-Medves"
+    },
+    {
+        "id": 20,
+        "name": "Karancs, Medves, Heves-Borsodi-dombság",
+        "deprecated": true
+    },
+    {
+        "id": 21,
+        "name": "Kemeneshát és Kemenesalja"
+    },
+    {
+        "id": 22,
+        "name": "Keszthelyi-hegység"
+    },
+    {
+        "id": 55,
+        "name": "Kisalföld"
+    },
+    {
+        "id": 50,
+        "name": "Kiskunság,",
+        "deprecated": true
+    },
+    {
+        "id": 72,
+        "name": "Kiskunság, Bácska"
+    },
+    {
+        "id": 23,
+        "name": "Kőszegi-hegység"
+    },
+    {
+        "id": 24,
+        "name": "Lengyelország"
+    },
+    {
+        "id": 53,
+        "name": "Maros-Kőrös köze"
+    },
+    {
+        "id": 25,
+        "name": "Mátra"
+    },
+    {
+        "id": 26,
+        "name": "Mátraalja"
+    },
+    {
+        "id": 27,
+        "name": "Mecsek"
+    },
+    {
+        "id": 28,
+        "name": "Mezőföld"
+    },
+    {
+        "id": 51,
+        "name": "Nagykunság"
+    },
+    {
+        "id": 29,
+        "name": "Németország"
+    },
+    {
+        "id": 82,
+        "name": "Nincs megfelelő"
+    },
+    {
+        "id": 68,
+        "name": "Nyírség"
+    },
+    {
+        "id": 63,
+        "name": "Ó-Bükk"
+    },
+    {
+        "id": 31,
+        "name": "Őrség, Vasi hegyhát"
+    },
+    {
+        "id": 54,
+        "name": "Pesti síkság"
+    },
+    {
+        "id": 74,
+        "name": "Pilis"
+    },
+    {
+        "id": 32,
+        "name": "Pilis és Visegrádi-hg.",
+        "deprecated": true
+    },
+    {
+        "id": 33,
+        "name": "Románia"
+    },
+    {
+        "id": 76,
+        "name": "Sárrét"
+    },
+    {
+        "id": 34,
+        "name": "Sokoró"
+    },
+    {
+        "id": 35,
+        "name": "Somló"
+    },
+    {
+        "id": 36,
+        "name": "Somogyi-dombság\n"
+    },
+    {
+        "id": 37,
+        "name": "Soproni-hegység"
+    },
+    {
+        "id": 77,
+        "name": "Szatmári-Tiszahát"
+    },
+    {
+        "id": 38,
+        "name": "Szekszárdi-dombság"
+    },
+    {
+        "id": 39,
+        "name": "Szerbia, Délvidék"
+    },
+    {
+        "id": 40,
+        "name": "Szlovákia, Felvidék"
+    },
+    {
+        "id": 41,
+        "name": "Szlovénia"
+    },
+    {
+        "id": 71,
+        "name": "Tápió-vidék"
+    },
+    {
+        "id": 78,
+        "name": "Tolnai hegyhát"
+    },
+    {
+        "id": 42,
+        "name": "Ukrajna, Kárpátalja"
+    },
+    {
+        "id": 43,
+        "name": "Velencei-hegység"
+    },
+    {
+        "id": 44,
+        "name": "Vértes"
+    },
+    {
+        "id": 45,
+        "name": "Villányi-hegység"
+    },
+    {
+        "id": 75,
+        "name": "Visegrádi-hegység"
+    },
+    {
+        "id": 79,
+        "name": "Völgység"
+    },
+    {
+        "id": 46,
+        "name": "Zalai-dombság"
+    },
+    {
+        "id": 47,
+        "name": "Zempléni-hegység"
+    },
+    {
+        "id": 80,
+        "name": "Zsámbéki-medence"
+    },
+    {
+        "id": 48,
+        "name": "Zselic"
+    }
+]
