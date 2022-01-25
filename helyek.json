@@ -1,340 +1,5112 @@
 [
     {
-        "id": 1,
-        "name": "Aggteleki karszt"
-    },
-    {
-        "id": 2,
-        "name": "Alföld"
-    },
-    {
-        "id": 3,
-        "name": "Ausztria"
-    },
-    {
-        "id": 4,
-        "name": "Bakony",
-        "deprecated": true
-    },
-    {
-        "id": 56,
-        "name": "Bakony, Dél"
-    },
-    {
-        "id": 57,
-        "name": "Bakony, Észak\/Magas"
-    },
-    {
-        "id": 60,
-        "name": "Bakony, Kelet"
-    },
-    {
-        "id": 5,
-        "name": "Balaton, Balaton-felvidék"
-    },
-    {
-        "id": 61,
-        "name": "Baranyai-dombság"
-    },
-    {
-        "id": 6,
-        "name": "Bihar-hegység"
-    },
-    {
-        "id": 62,
-        "name": "Bodrogköz és a Hegyalja"
-    },
-    {
-        "id": 84,
-        "name": "Borsodi-mezőség és a Taktaköz"
-    },
-    {
-        "id": 7,
-        "name": "Börzsöny"
-    },
-    {
-        "id": 8,
-        "name": "Budai-hegység"
-    },
-    {
-        "id": 9,
-        "name": "Budapest"
-    },
-    {
-        "id": 10,
-        "name": "Bükk"
-    },
-    {
-        "id": 11,
-        "name": "Csehország"
-    },
-    {
-        "id": 73,
-        "name": "Csepel-sziget és a Felső-Kiskunság"
-    },
-    {
-        "id": 12,
-        "name": "Cserehát"
-    },
-    {
-        "id": 13,
-        "name": "Cserhát"
-    },
-    {
-        "id": 30,
-        "name": "Dráva-mellék és az Ormánság"
-    },
-    {
-        "id": 81,
-        "name": "Egyéb külföld"
-    },
-    {
-        "id": 14,
-        "name": "Erdély"
-    },
-    {
-        "id": 64,
-        "name": "Etyeki-dombság"
-    },
-    {
-        "id": 15,
-        "name": "Fertő-tó"
-    },
-    {
-        "id": 65,
-        "name": "Gemenc, Tolnai-Sárköz és a Mohácsi-sík"
-    },
-    {
-        "id": 16,
-        "name": "Gerecse"
-    },
-    {
-        "id": 17,
-        "name": "Göcsej"
-    },
-    {
-        "id": 18,
-        "name": "Gödöllői-dombság"
-    },
-    {
-        "id": 66,
-        "name": "Gömör-Borsodi-dombság"
-    },
-    {
-        "id": 67,
-        "name": "Hajdúság"
-    },
-    {
-        "id": 52,
-        "name": "Hajdúság-Nyírség",
-        "deprecated": true
-    },
-    {
-        "id": 85,
-        "name": "Hevesi-síkság"
-    },
-    {
-        "id": 69,
-        "name": "Hortobágy"
-    },
-    {
-        "id": 19,
-        "name": "Horvátország"
-    },
-    {
-        "id": 70,
-        "name": "Jászság"
-    },
-    {
-        "id": 49,
-        "name": "Jászság-Tápióság",
-        "deprecated": true
-    },
-    {
-        "id": 83,
-        "name": "Karancs-Medves"
-    },
-    {
-        "id": 20,
-        "name": "Karancs, Medves, Heves-Borsodi-dombság",
-        "deprecated": true
-    },
-    {
-        "id": 21,
-        "name": "Kemeneshát és Kemenesalja"
-    },
-    {
-        "id": 22,
-        "name": "Keszthelyi-hegység"
-    },
-    {
-        "id": 55,
-        "name": "Kisalföld"
-    },
-    {
-        "id": 50,
-        "name": "Kiskunság,",
-        "deprecated": true
-    },
-    {
-        "id": 72,
-        "name": "Kiskunság, Bácska"
-    },
-    {
-        "id": 23,
-        "name": "Kőszegi-hegység"
-    },
-    {
-        "id": 24,
-        "name": "Lengyelország"
-    },
-    {
-        "id": 53,
-        "name": "Maros-Kőrös köze"
-    },
-    {
-        "id": 25,
-        "name": "Mátra"
-    },
-    {
-        "id": 26,
-        "name": "Mátraalja"
-    },
-    {
-        "id": 27,
-        "name": "Mecsek"
-    },
-    {
-        "id": 28,
-        "name": "Mezőföld"
-    },
-    {
-        "id": 51,
-        "name": "Nagykunság"
-    },
-    {
-        "id": 29,
-        "name": "Németország"
-    },
-    {
-        "id": 82,
-        "name": "Nincs megfelelő"
-    },
-    {
-        "id": 68,
-        "name": "Nyírség"
-    },
-    {
-        "id": 63,
-        "name": "Ó-Bükk"
-    },
-    {
-        "id": 31,
-        "name": "Őrség, Vasi hegyhát"
-    },
-    {
-        "id": 54,
-        "name": "Pesti síkság"
-    },
-    {
-        "id": 74,
-        "name": "Pilis"
-    },
-    {
-        "id": 32,
-        "name": "Pilis és Visegrádi-hg.",
-        "deprecated": true
-    },
-    {
-        "id": 33,
-        "name": "Románia"
-    },
-    {
-        "id": 76,
-        "name": "Sárrét"
-    },
-    {
-        "id": 34,
-        "name": "Sokoró"
-    },
-    {
-        "id": 35,
-        "name": "Somló"
-    },
-    {
-        "id": 36,
-        "name": "Somogyi-dombság\n"
-    },
-    {
-        "id": 37,
-        "name": "Soproni-hegység"
-    },
-    {
-        "id": 77,
-        "name": "Szatmári-Tiszahát"
-    },
-    {
-        "id": 38,
-        "name": "Szekszárdi-dombság"
-    },
-    {
-        "id": 39,
-        "name": "Szerbia, Délvidék"
-    },
-    {
-        "id": 40,
-        "name": "Szlovákia, Felvidék"
-    },
-    {
-        "id": 41,
-        "name": "Szlovénia"
-    },
-    {
-        "id": 71,
-        "name": "Tápió-vidék"
-    },
-    {
-        "id": 78,
-        "name": "Tolnai hegyhát"
-    },
-    {
-        "id": 42,
-        "name": "Ukrajna, Kárpátalja"
-    },
-    {
-        "id": 43,
-        "name": "Velencei-hegység"
-    },
-    {
-        "id": 44,
-        "name": "Vértes"
-    },
-    {
-        "id": 45,
-        "name": "Villányi-hegység"
-    },
-    {
-        "id": 75,
-        "name": "Visegrádi-hegység"
-    },
-    {
-        "id": 79,
-        "name": "Völgység"
-    },
-    {
-        "id": 46,
-        "name": "Zalai-dombság"
-    },
-    {
-        "id": 47,
-        "name": "Zempléni-hegység"
-    },
-    {
-        "id": 80,
-        "name": "Zsámbéki-medence"
-    },
-    {
-        "id": 48,
-        "name": "Zselic"
+        "id": 4009,
+        "displayName": "Első Remete Szent Pál - Boldog Bátori László emléktúra  - 12",
+        "date": 1641078000,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Első Remete Szent Pál - Boldog Bátori László emléktúra 12",
+                "id": 11690,
+                "currency": "HUF",
+                "distance": 12300,
+                "price": 1300,
+                "startTimeFrom": 1641106800,
+                "startTimeTo": 1641114000,
+                "startPlace": {
+                    "latitude": 47.52678805,
+                    "longitude": 18.955581059865,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szépjuhászné, ",
+                    "Budaszentlőrinci pálos kolostorrom",
+                    "Nagy-Hárs-hegy",
+                    "Bátori-barlang",
+                    "Széher utca",
+                    "Irén utca",
+                    "Tündér-szikla alja",
+                    "Disznófő",
+                    "Szent Anna kápolna",
+                    "János-hegy - Erzsébet-kilátó",
+                    "Szépjuhászné,",
+                    "Budaszentlőrinci pálos kolostorrom"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    45,
+                    67,
+                    76,
+                    77,
+                    95,
+                    96,
+                    98,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            8
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4371,
+        "displayName": "Hótaposó (Teljesítménytúraként elmarad, instant túraként teljesíthető!)  - 30 \/ 20 \/ 10",
+        "date": 1641510000,
+        "canceled": true,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Hótaposó (Teljesítménytúraként elmarad, instant túraként teljesíthető!) 30",
+                "id": 12644,
+                "currency": "HUF",
+                "distance": 29900,
+                "price": 950,
+                "startTimeFrom": 1641538800,
+                "startTimeTo": 1641556800,
+                "startPlace": {
+                    "latitude": 47.51122325,
+                    "longitude": 18.970875600558,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Zugliget",
+                    "Disznófő-forrás",
+                    "Szent Anna-kápolna",
+                    "Csacsi-rét",
+                    "Magas-kő",
+                    "Végvári-szikla",
+                    "Makkosmária",
+                    "Virág-völgy",
+                    "Kis-Kőfej",
+                    "Budakeszi-hágó",
+                    "Szilfa-tisztás",
+                    "Petneházy-rét",
+                    "Ady liget",
+                    "Kecske-hát",
+                    "Vörös-pocsolya",
+                    "Remeteszőlős",
+                    "Bodza-liget",
+                    "Zenélő-kút",
+                    "Remete-szurdok",
+                    "Szent-kút",
+                    "Hűvösvölgy",
+                    "Tóthasszony útja",
+                    "Hárs-hegyi-nyereg",
+                    "Szépjuhászné",
+                    "János-hegy oldala",
+                    "Tündér-szikla",
+                    "Zugliget"
+                ],
+                "params": [
+                    1,
+                    9,
+                    13,
+                    37,
+                    93,
+                    95,
+                    96,
+                    98,
+                    121,
+                    122
+                ]
+            },
+            {
+                "displayName": "Hótaposó (Teljesítménytúraként elmarad, instant túraként teljesíthető!) 20",
+                "id": 12645,
+                "currency": "HUF",
+                "distance": 18300,
+                "price": 950,
+                "startTimeFrom": 1641538800,
+                "startTimeTo": 1641556800,
+                "startPlace": {
+                    "latitude": 47.51122325,
+                    "longitude": 18.970875600558,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Zugliget",
+                    "Disznófő-forrás",
+                    "Szent Anna-kápolna",
+                    "Csacsi-rét",
+                    "Virág-völgy",
+                    "Kis-Kőfej",
+                    "Budakeszi-hágó",
+                    "Szilfa-tisztás",
+                    "Petneházy-rét",
+                    "Ady liget",
+                    "Fekete-fej",
+                    "Tóthasszony útja",
+                    "Hárs-hegyi-nyereg",
+                    "Szépjuhászné",
+                    "János-hegy oldala",
+                    "Tündér-szikla",
+                    "Zugliget"
+                ],
+                "params": [
+                    1,
+                    9,
+                    13,
+                    37,
+                    93,
+                    95,
+                    96,
+                    98,
+                    121,
+                    122
+                ]
+            },
+            {
+                "displayName": "Hótaposó (Teljesítménytúraként elmarad, instant túraként teljesíthető!) 10",
+                "id": 12646,
+                "currency": "HUF",
+                "distance": 10100,
+                "price": 950,
+                "startTimeFrom": 1641538800,
+                "startTimeTo": 1641564000,
+                "startPlace": {
+                    "latitude": 47.51122325,
+                    "longitude": 18.970875600558,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Zugliget",
+                    "Disznófő-forrás",
+                    "Szent Anna-kápolna",
+                    "Csacsi-rét",
+                    "Virág-völgy",
+                    "Kis-Kőfej",
+                    "Budakeszi-hágó",
+                    "János-hegy oldala",
+                    "Tündér-szikla",
+                    "Zugliget"
+                ],
+                "params": [
+                    1,
+                    9,
+                    13,
+                    37,
+                    93,
+                    95,
+                    96,
+                    98,
+                    121,
+                    122
+                ]
+            }
+        ],
+        "regions": [
+            8
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4176,
+        "displayName": "Télies Mecsek  - 35 \/ 16 \/ Hó-PITE",
+        "date": 1641596400,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Télies Mecsek 35",
+                "id": 12131,
+                "currency": "HUF",
+                "distance": 34500,
+                "price": 1600,
+                "startTimeFrom": 1641619800,
+                "startTimeTo": 1641625200,
+                "startPlace": {
+                    "latitude": 46.0875848,
+                    "longitude": 18.1824533,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Éger-völgy",
+                    "Jakab-hegy",
+                    "Orfű",
+                    "Büdös-kút",
+                    "Kánya-forrás",
+                    "Petnyák",
+                    "Melegmányi-f.",
+                    "Dömörkapu",
+                    "Misina",
+                    "Tubes",
+                    "Éger-völgy"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    35,
+                    37,
+                    41,
+                    66,
+                    71,
+                    76,
+                    77,
+                    88,
+                    89,
+                    91,
+                    92,
+                    95,
+                    96,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            },
+            {
+                "displayName": "Télies Mecsek 16",
+                "id": 12132,
+                "currency": "HUF",
+                "distance": 15400,
+                "price": 1400,
+                "startTimeFrom": 1641625200,
+                "startTimeTo": 1641632400,
+                "startPlace": {
+                    "latitude": 46.0875848,
+                    "longitude": 18.1824533,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Éger-völgy",
+                    "Jakab-hegy",
+                    "Remete-rét",
+                    "Kancsal-forrás ",
+                    "Éger-völgy"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    35,
+                    37,
+                    41,
+                    66,
+                    71,
+                    76,
+                    77,
+                    88,
+                    89,
+                    91,
+                    92,
+                    95,
+                    96,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            },
+            {
+                "displayName": "Télies Mecsek Hó-PITE",
+                "id": 12133,
+                "currency": "HUF",
+                "distance": 10100,
+                "price": 1200,
+                "startTimeFrom": 1641625200,
+                "startTimeTo": 1641636000,
+                "startPlace": {
+                    "latitude": 46.0875848,
+                    "longitude": 18.1824533,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Éger-völgy",
+                    "Patacsi-mező",
+                    "Remete-rét",
+                    "Kancsal-forrás",
+                    "Éger-völgy"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    35,
+                    37,
+                    41,
+                    66,
+                    71,
+                    76,
+                    77,
+                    88,
+                    89,
+                    91,
+                    92,
+                    95,
+                    96,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            }
+        ],
+        "regions": [
+            27
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4214,
+        "displayName": "Stabil Újév  - Maraton 42 km \/ Félmaraton 21 km \/ Maratonka 9 km",
+        "date": 1641596400,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Stabil Újév Maraton 42 km",
+                "id": 12241,
+                "currency": "HUF",
+                "distance": 42470,
+                "price": 3900,
+                "startTimeFrom": 1641618000,
+                "startTimeTo": 1641625200,
+                "startPlace": {
+                    "latitude": 47.528345645028,
+                    "longitude": 18.954941140436,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szépjuhászné ",
+                    "Kis-Hárs-hegy oldala",
+                    "Hűvösvölgy ",
+                    "Vadaskerti-hegy ",
+                    "Libanoni cédrus ",
+                    "Árpád-kilátó",
+                    "Határ-nyereg ",
+                    "Újlaki-hegy",
+                    "Virágos-nyereg ",
+                    "Csúcs-hegy oldala ",
+                    "Rózsika-sétány ",
+                    "Kerek-hegy ",
+                    "Zsíros-hegy (Muflon Itató) ",
+                    "Nagy-Szénás oldala ",
+                    "Nagykovácsi ",
+                    "Nagy-Kopasz ",
+                    "Kecske-hát ",
+                    "Fekete-fej ",
+                    "Hárs-hegyi körút ",
+                    "Szépjuhászné"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    43,
+                    44,
+                    45,
+                    49,
+                    50,
+                    51,
+                    59,
+                    60,
+                    64,
+                    66,
+                    71,
+                    76,
+                    77,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    98,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            },
+            {
+                "displayName": "Stabil Újév Félmaraton 21 km",
+                "id": 12242,
+                "currency": "HUF",
+                "distance": 22080,
+                "price": 3400,
+                "startTimeFrom": 1641621600,
+                "startTimeTo": 1641632400,
+                "startPlace": {
+                    "latitude": 47.528345645028,
+                    "longitude": 18.954941140436,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szépjuhászné",
+                    "Kis-Hárs-hegy oldala",
+                    "Hűvösvölgy ",
+                    "Vadaskerti-hegy ",
+                    "Libanoni cédrus ",
+                    "Árpád-kilátó ",
+                    "Határ-nyereg ",
+                    "Újlaki-hegy ",
+                    "Virágos-nyereg ",
+                    "Pesthidegkút ",
+                    "Máriaremete ",
+                    "Nagy-rét ",
+                    "Hárs-hegyi körút ",
+                    "Szépjuhászné"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    43,
+                    44,
+                    45,
+                    50,
+                    51,
+                    58,
+                    59,
+                    60,
+                    66,
+                    71,
+                    76,
+                    77,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    98,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109,
+                    117,
+                    118,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Stabil Újév Maratonka 9 km",
+                "id": 12243,
+                "currency": "HUF",
+                "distance": 9230,
+                "price": 2900,
+                "startTimeFrom": 1641625200,
+                "startTimeTo": 1641643200,
+                "startPlace": {
+                    "latitude": 47.528345645028,
+                    "longitude": 18.954941140436,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szépjuhászné ",
+                    "Kis-Hárs-hegy oldala ",
+                    "Hűvösvölgy ",
+                    "Vadaskerti-hegy ",
+                    "Libanoni cédrus ",
+                    "Apáthy-szikla ",
+                    "Nagyhíd ",
+                    "Széher út ",
+                    "Szépjuhászné"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    43,
+                    44,
+                    45,
+                    50,
+                    51,
+                    58,
+                    59,
+                    60,
+                    66,
+                    71,
+                    76,
+                    77,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    98,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            }
+        ],
+        "regions": [
+            9
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4008,
+        "displayName": "Becsület útja  - 25 \/ 45",
+        "date": 1641596400,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Becsület útja 25",
+                "id": 11688,
+                "currency": "HUF",
+                "distance": 26100,
+                "price": 1500,
+                "startTimeFrom": 1641621600,
+                "startTimeTo": 1641625200,
+                "startPlace": {
+                    "latitude": 47.777941,
+                    "longitude": 18.7433048,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Esztergom ",
+                    "Csurgó-kút",
+                    "Vörös-kereszt",
+                    "Fári-kút ",
+                    "Képes-fa",
+                    "Róka-szikla",
+                    "Maróti-hegyek ",
+                    "Hideglelős kereszt ",
+                    "Búbánat-völgy ",
+                    "II. Világháborús emlékhely ",
+                    "Kerektó",
+                    "Fári-kút",
+                    "Brilli Gyula turistaház",
+                    "Esztergom"
+                ],
+                "params": [
+                    1,
+                    7,
+                    8,
+                    9,
+                    36,
+                    37,
+                    44,
+                    45,
+                    46,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    91,
+                    92,
+                    95,
+                    96,
+                    110,
+                    111
+                ]
+            },
+            {
+                "displayName": "Becsület útja 45",
+                "id": 11689,
+                "currency": "HUF",
+                "distance": 46900,
+                "price": 1500,
+                "startTimeFrom": 1641621600,
+                "startTimeTo": 1641625200,
+                "startPlace": {
+                    "latitude": 47.777941,
+                    "longitude": 18.7433048,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Esztergom ",
+                    "Csurgó-kút",
+                    "Vörös kereszt ",
+                    "Barát-kúti erdészház",
+                    "Ráró-kút ",
+                    "Sasfészek kulcsosház",
+                    "Pilis-nyereg ",
+                    "Két-bükkfa-nyereg",
+                    "Pilisszentlélek",
+                    "kolostorrom ",
+                    "katona sír ",
+                    "Enyedi-halála ",
+                    "Képes-fa",
+                    "Róka-szikla",
+                    "Maróti-hegyek",
+                    "Hideglelős kereszt ",
+                    "Búbánat-völgy ",
+                    "II. Világháborús emlékhely ",
+                    "Kerektó",
+                    "Fári-kút",
+                    "Brilli Gyula turistaház",
+                    "Esztergom"
+                ],
+                "params": [
+                    1,
+                    7,
+                    8,
+                    9,
+                    36,
+                    37,
+                    44,
+                    45,
+                    46,
+                    75,
+                    76,
+                    77,
+                    78,
+                    91,
+                    92,
+                    95,
+                    96,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            74,
+            75
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4320,
+        "displayName": "Kauker Márton Emléktúra  - Kauker Márton Emléktúra",
+        "date": 1641596400,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Kauker Márton Emléktúra Kauker Márton Emléktúra",
+                "id": 12485,
+                "currency": "HUF",
+                "distance": 10200,
+                "price": 1000,
+                "startTimeFrom": 1641621600,
+                "startTimeTo": 1641628800,
+                "startPlace": {
+                    "latitude": 47.1318661,
+                    "longitude": 17.747134751793,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Herend, Iskola",
+                    "Vasúti átkelő",
+                    "Herendi erdő",
+                    "Hárskúti erdő",
+                    "Hárskút, Művelődési ház"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    58,
+                    64,
+                    71,
+                    88,
+                    89,
+                    91,
+                    92,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            }
+        ],
+        "regions": [
+            56
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4333,
+        "displayName": "A Budai-hegység távoli csúcsai  - BHTCS \/ BHMTCS \/ BHKCS",
+        "date": 1641596400,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "A Budai-hegység távoli csúcsai BHTCS",
+                "id": 12514,
+                "currency": "HUF",
+                "distance": 35000,
+                "price": 1500,
+                "startTimeFrom": 1641661200,
+                "startTimeTo": 1641664800,
+                "startPlace": {
+                    "latitude": 47.57574185,
+                    "longitude": 18.8807159504,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Várható csúcsok hamarosan."
+                ],
+                "params": [
+                    1,
+                    2,
+                    8,
+                    9,
+                    37,
+                    42,
+                    46,
+                    58,
+                    67,
+                    88,
+                    89,
+                    91,
+                    92,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            },
+            {
+                "displayName": "A Budai-hegység távoli csúcsai BHMTCS",
+                "id": 12515,
+                "currency": "HUF",
+                "distance": 45000,
+                "price": 1500,
+                "startTimeFrom": 1641661200,
+                "startTimeTo": 1641664800,
+                "startPlace": {
+                    "latitude": 47.57574185,
+                    "longitude": 18.8807159504,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Várható csúcsok hamarosan.",
+                    "",
+                    "Még távolabbi csúcsok:",
+                    "- Fazekas-hegy (281 m)",
+                    "- Homok-hegy (340 m)",
+                    "- Vihar-domb (480 m)",
+                    "- Kálvária-hegy (384 m)",
+                    "+Három meglepetés csúcs, amit a rajtban hirdetünk ki",
+                    "+Ráadás csúcs: Alsó-Zsíros-hegy (424 m) - Nem kötelező felkeresni, de érintéséért plusz egy óra szintidő jár."
+                ],
+                "params": [
+                    1,
+                    2,
+                    8,
+                    9,
+                    37,
+                    42,
+                    46,
+                    58,
+                    67,
+                    88,
+                    89,
+                    91,
+                    92,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            },
+            {
+                "displayName": "A Budai-hegység távoli csúcsai BHKCS",
+                "id": 12516,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 1000,
+                "startTimeFrom": 1641657600,
+                "startTimeTo": 1641661200,
+                "startPlace": {
+                    "latitude": 47.57574185,
+                    "longitude": 18.8807159504,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Három csúcs, amit a rajtban sorsolunk ki. Idei csúcsok hamarosan."
+                ],
+                "params": [
+                    1,
+                    2,
+                    8,
+                    9,
+                    37,
+                    42,
+                    46,
+                    58,
+                    67,
+                    88,
+                    89,
+                    91,
+                    92,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            }
+        ],
+        "regions": [
+            8
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4351,
+        "displayName": "Téli Körös  - 30 \/ 20 \/ 10",
+        "date": 1641596400,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Téli Körös 30",
+                "id": 12580,
+                "currency": "HUF",
+                "distance": 30000,
+                "price": 1000,
+                "startTimeFrom": 1641625200,
+                "startTimeTo": 1641628800,
+                "startPlace": {
+                    "latitude": 46.82596635,
+                    "longitude": 21.0305481753,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Mezőberény",
+                    "Boldishát",
+                    "Petőfi emlékmű",
+                    "Kereki legelő",
+                    "Bélmegyei-csatorna",
+                    "Vámosi-híd, Hosszúfoki-csatorna",
+                    "\"Plesa Pihenő\"",
+                    "Laposi kertek",
+                    "Mezőberény"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    48,
+                    57,
+                    59,
+                    63,
+                    66,
+                    75,
+                    76,
+                    80,
+                    88,
+                    90,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106
+                ]
+            },
+            {
+                "displayName": "Téli Körös 20",
+                "id": 12581,
+                "currency": "HUF",
+                "distance": 19600,
+                "price": 1000,
+                "startTimeFrom": 1641625200,
+                "startTimeTo": 1641628800,
+                "startPlace": {
+                    "latitude": 46.82596635,
+                    "longitude": 21.0305481753,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Mezőberény",
+                    "Boldishát",
+                    "Köröstarcsa, Sparrow Caffé",
+                    "Kettős-Körös gát",
+                    "Petőfi emlékmű, \"Plesa Pihenő\"",
+                    "Laposi kertek",
+                    "Mezőberény"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    48,
+                    57,
+                    59,
+                    63,
+                    66,
+                    75,
+                    76,
+                    80,
+                    88,
+                    90,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106
+                ]
+            },
+            {
+                "displayName": "Téli Körös 10",
+                "id": 12582,
+                "currency": "HUF",
+                "distance": 8800,
+                "price": 500,
+                "startTimeFrom": 1641625200,
+                "startTimeTo": 1641628800,
+                "startPlace": {
+                    "latitude": 46.82596635,
+                    "longitude": 21.0305481753,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Mezőberény",
+                    "Lőtér",
+                    "Bélmegyeri-út",
+                    "Békés-Mezőberény főcsatorna",
+                    "Laposi kertek",
+                    "Mezőberény"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    48,
+                    57,
+                    59,
+                    63,
+                    66,
+                    75,
+                    76,
+                    80,
+                    88,
+                    90,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106
+                ]
+            }
+        ],
+        "regions": [
+            2
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4369,
+        "displayName": "Futapest - Szigetújfalu  - Hosszú táv \/ Rövid táv",
+        "date": 1641682800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Futapest - Szigetújfalu Hosszú táv",
+                "id": 12638,
+                "currency": "HUF",
+                "distance": 12200,
+                "price": 3000,
+                "startTimeFrom": 1641722400,
+                "startTimeTo": 1641722460,
+                "startPlace": {
+                    "latitude": 47.231014073023,
+                    "longitude": 18.92219518128,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szőlő utca",
+                    "Kavics út",
+                    "Duna-part",
+                    "Ercsi rév",
+                    "Szigetcsép határa",
+                    "Rév köz",
+                    "Kavics út",
+                    "Szőlő utca"
+                ],
+                "params": [
+                    2,
+                    7,
+                    38,
+                    48,
+                    88,
+                    89,
+                    91,
+                    92,
+                    105,
+                    106,
+                    108,
+                    109,
+                    111
+                ]
+            },
+            {
+                "displayName": "Futapest - Szigetújfalu Rövid táv",
+                "id": 12639,
+                "currency": "HUF",
+                "distance": 4800,
+                "price": 3000,
+                "startTimeFrom": 1641723000,
+                "startTimeTo": 1641723060,
+                "startPlace": {
+                    "latitude": 47.231014073023,
+                    "longitude": 18.92219518128,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szőlő utca",
+                    "Kavics út",
+                    "Duna-part",
+                    "Kavics út",
+                    "Szőlő utca"
+                ],
+                "params": [
+                    2,
+                    7,
+                    38,
+                    48,
+                    88,
+                    89,
+                    91,
+                    92,
+                    105,
+                    106,
+                    108,
+                    109,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            73
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4155,
+        "displayName": "Extrem Burgenland felkészítő 40km  - 40km",
+        "date": 1641682800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Extrem Burgenland felkészítő 40km 40km",
+                "id": 12073,
+                "currency": "HUF",
+                "distance": 40000,
+                "price": 0,
+                "startTimeFrom": 1641708000,
+                "startTimeTo": 1641708000,
+                "startPlace": {
+                    "latitude": 47.658213031698,
+                    "longitude": 16.666542309106,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [],
+                "params": [
+                    1,
+                    7,
+                    37,
+                    48,
+                    50,
+                    57,
+                    59,
+                    63,
+                    66,
+                    82,
+                    83,
+                    94,
+                    96,
+                    108,
+                    109,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            37
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4184,
+        "displayName": "Eged Hegyi Túranap  - 13 \/ 23",
+        "date": 1641682800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Eged Hegyi Túranap 13",
+                "id": 12156,
+                "currency": "HUF",
+                "distance": 13000,
+                "price": 2500,
+                "startTimeFrom": 1641711600,
+                "startTimeTo": 1641718800,
+                "startPlace": {
+                    "latitude": 47.9301024,
+                    "longitude": 20.3959669,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Eger",
+                    "Sárga sáv ",
+                    "Szalagozás ",
+                    "Szőlős ",
+                    "Szalagozás ",
+                    "Piros sáv",
+                    "Piros háromszög ",
+                    "Nagy Eged",
+                    "Kék  ferde sáv ",
+                    "Piros sáv ",
+                    "Vécsey  -völgy  utca ",
+                    "Gárdonyi Géza út"
+                ],
+                "params": [
+                    1,
+                    7,
+                    37,
+                    38,
+                    45,
+                    52,
+                    53,
+                    58,
+                    62,
+                    64,
+                    67,
+                    68,
+                    93,
+                    94,
+                    95,
+                    96,
+                    106,
+                    110,
+                    111
+                ]
+            },
+            {
+                "displayName": "Eged Hegyi Túranap 23",
+                "id": 12157,
+                "currency": "HUF",
+                "distance": 23000,
+                "price": 2500,
+                "startTimeFrom": 1641711600,
+                "startTimeTo": 1641718800,
+                "startPlace": {
+                    "latitude": 47.9301024,
+                    "longitude": 20.3959669,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Eger",
+                    "Sárga  sáv ",
+                    "Ibolyás tető ",
+                    "Sárga kereszt ",
+                    "Borbolya hegy",
+                    "Piros kereszt",
+                    "Piros sáv ",
+                    "Bükk bérc",
+                    "Piros sáv",
+                    "Piros háromszög ",
+                    "Nagy Eged",
+                    "Kék  ferde sáv ",
+                    "Piros sáv ",
+                    "Vécsey  -völgy  utca ",
+                    "Eger, Gárdonyi Géza út"
+                ],
+                "params": [
+                    1,
+                    7,
+                    37,
+                    38,
+                    45,
+                    52,
+                    53,
+                    58,
+                    62,
+                    64,
+                    67,
+                    68,
+                    93,
+                    94,
+                    95,
+                    96,
+                    106,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            10
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4011,
+        "displayName": "Don-kanyar emléktúra  - 16 km (vezetett túra)",
+        "date": 1641682800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Don-kanyar emléktúra 16 km (vezetett túra)",
+                "id": 11692,
+                "currency": "HUF",
+                "distance": 15900,
+                "price": 1500,
+                "startTimeFrom": 1641718800,
+                "startTimeTo": 1641718800,
+                "startPlace": {
+                    "latitude": 47.57578,
+                    "longitude": 18.87957,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Nagykovácsi",
+                    "Vörös-pocsolyás-hát",
+                    "Három katona sírja",
+                    "Hársbokor-hegy",
+                    "Julianna-majori katonasír",
+                    "Cserkésztábor",
+                    "Petneházy-rét",
+                    "Hűvösvölgyi katonasír",
+                    "Hűvösvölgy, P+R parkoló"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    12,
+                    13,
+                    37,
+                    67,
+                    98,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            8
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4315,
+        "displayName": "TTT (volt Budapest) Kupa díjkiosztó (9:00-16:00)  - Új helyszín! OKISZ irodaház. Thököly út)",
+        "date": 1641682800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "TTT (volt Budapest) Kupa díjkiosztó (9:00-16:00) Új helyszín! OKISZ irodaház. Thököly út)",
+                "id": 12471,
+                "currency": "HUF",
+                "distance": 0,
+                "price": 0,
+                "startTimeFrom": 1641715200,
+                "startTimeTo": 1641740400,
+                "startPlace": {
+                    "latitude": 47.5063636,
+                    "longitude": 19.091212499627,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "TTT Kupa díjkiosztó"
+                ],
+                "params": [
+                    1,
+                    7,
+                    13,
+                    88,
+                    89,
+                    91,
+                    92,
+                    108,
+                    109
+                ]
+            }
+        ],
+        "regions": [
+            9
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4340,
+        "displayName": "Téli Zalai körtúrák  - 20 \/ 10A \/ 10B \/ 3",
+        "date": 1641682800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Téli Zalai körtúrák 20",
+                "id": 12531,
+                "currency": "HUF",
+                "distance": 19670,
+                "price": 2400,
+                "startTimeFrom": 1641711600,
+                "startTimeTo": 1641718800,
+                "startPlace": {
+                    "latitude": 46.870283050554,
+                    "longitude": 17.068791059209,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kallósd, Kultúrház ",
+                    "Árpád kori kerektemplom ",
+                    "Kehida, Deák-kút",
+                    "Szent László kápolna ",
+                    "Öreg-hegy ",
+                    "Kallósd, szőlőhegy ",
+                    "Páduai Szent Antal kápolna ",
+                    "Zalakoppány, forrás kút ",
+                    "Kereszt",
+                    "Bezeréd, Szent Vendel kápolna ",
+                    "Szabadnép telep",
+                    "Kallósd, Kultúrház"
+                ],
+                "params": [
+                    1,
+                    9,
+                    13,
+                    37,
+                    43,
+                    45,
+                    54,
+                    59,
+                    60,
+                    61,
+                    65,
+                    66,
+                    71,
+                    81,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    112,
+                    113
+                ]
+            },
+            {
+                "displayName": "Téli Zalai körtúrák 10A",
+                "id": 12532,
+                "currency": "HUF",
+                "distance": 11080,
+                "price": 2200,
+                "startTimeFrom": 1641715200,
+                "startTimeTo": 1641722400,
+                "startPlace": {
+                    "latitude": 46.870283050554,
+                    "longitude": 17.068791059209,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kallósd, Kultúrház ",
+                    "Árpád kori kerektemplom ",
+                    "Deák-kút",
+                    "Szent László kápolna ",
+                    "Öreg-hegy ",
+                    "Kallósd, szőlőhegy ",
+                    "Páduai Szent Antal kápolna ",
+                    "Kultúrház"
+                ],
+                "params": [
+                    1,
+                    9,
+                    13,
+                    37,
+                    43,
+                    45,
+                    59,
+                    60,
+                    61,
+                    65,
+                    66,
+                    71,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    112,
+                    113
+                ]
+            },
+            {
+                "displayName": "Téli Zalai körtúrák 10B",
+                "id": 12533,
+                "currency": "HUF",
+                "distance": 12000,
+                "price": 2200,
+                "startTimeFrom": 1641715200,
+                "startTimeTo": 1641722400,
+                "startPlace": {
+                    "latitude": 46.870283050554,
+                    "longitude": 17.068791059209,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kallósd, Kultúrház ",
+                    "Árpád kori kerektemplom ",
+                    "Páduai Szent Antal kápolna ",
+                    "Zalakoppány, forrás kút ",
+                    "Kereszt",
+                    "Bezeréd, Szent Vendel kápolna ",
+                    "Szabadnép telep ",
+                    "Kallósd, Kultúrház"
+                ],
+                "params": [
+                    1,
+                    9,
+                    13,
+                    37,
+                    43,
+                    45,
+                    54,
+                    60,
+                    61,
+                    65,
+                    71,
+                    81,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    112,
+                    113
+                ]
+            },
+            {
+                "displayName": "Téli Zalai körtúrák 3",
+                "id": 12534,
+                "currency": "HUF",
+                "distance": 3200,
+                "price": 2000,
+                "startTimeFrom": 1641722400,
+                "startTimeTo": 1641726000,
+                "startPlace": {
+                    "latitude": 46.870283050554,
+                    "longitude": 17.068791059209,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kallósd, Kultúrház ",
+                    "Árpád kori kerektemplom ",
+                    "Páduai Szent Antal kápolna ",
+                    "Kultúrház"
+                ],
+                "params": [
+                    1,
+                    9,
+                    13,
+                    37,
+                    43,
+                    45,
+                    60,
+                    61,
+                    65,
+                    71,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    112,
+                    113
+                ]
+            }
+        ],
+        "regions": [
+            46
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4354,
+        "displayName": "Mount Everest Túrasorozat  - Balatonalmádi",
+        "date": 1642201200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Mount Everest Túrasorozat Balatonalmádi",
+                "id": 12587,
+                "currency": "HUF",
+                "distance": 10500,
+                "price": 1500,
+                "startTimeFrom": 1642231800,
+                "startTimeTo": 1642237200,
+                "startPlace": {
+                    "latitude": 47.02954675,
+                    "longitude": 18.016119077051,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "A Mount Everest túrasorozatban az adott város nevezetességeit, illetve a környező erdőket-mezőket érintve kell teljesíteni a 8850 m-t. A rendezők részletes, bejelölt térképvázlatot adnak. Az almádi  túránkon a három érintési pont  az almádi Óvári messzelátó, a felsőőrhegyi mérőtorony ill. a hajóállomás."
+                ],
+                "params": [
+                    1,
+                    7,
+                    13,
+                    45,
+                    46,
+                    52,
+                    64,
+                    67,
+                    71,
+                    75,
+                    76,
+                    77,
+                    78,
+                    80,
+                    87,
+                    88,
+                    90,
+                    91,
+                    93,
+                    94,
+                    95,
+                    96,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            5
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4356,
+        "displayName": "Fázos Toporgós 2022  - Fázós TOPorgós",
+        "date": 1642201200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Fázos Toporgós 2022 Fázós TOPorgós",
+                "id": 12592,
+                "currency": "HUF",
+                "distance": 16000,
+                "price": 2000,
+                "startTimeFrom": 1642228200,
+                "startTimeTo": 1642235400,
+                "startPlace": {
+                    "latitude": 47.25758705,
+                    "longitude": 18.617822773961,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Nem határozunk meg útvonalat, mindenki tetszőleges úton érheti el a 5 + 1ellenőrzési pontot.",
+                    "Ellenőrző pontok: Meleg-hegy, Barlang kút, Zsuzsi presszó, Bence-hegy, Nadap ( Szintezési Ősjegy ). Bónusz ellenőrző pont: János-forrás",
+                    "Szintidőt sem szabunk, a pontok nyitvatartási idejét kell figyelembe venni. A pontok egységesen 16 órakor zárnak!"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    42,
+                    48,
+                    49,
+                    50,
+                    51,
+                    57,
+                    58,
+                    59,
+                    60,
+                    64,
+                    66,
+                    68,
+                    75,
+                    78,
+                    81,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    96,
+                    108,
+                    109,
+                    112,
+                    113
+                ]
+            }
+        ],
+        "regions": [
+            43
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4361,
+        "displayName": "Börzsöny kapuja  - 35 \/ 20 \/ 10",
+        "date": 1642201200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Börzsöny kapuja 35",
+                "id": 12611,
+                "currency": "HUF",
+                "distance": 37000,
+                "price": 1800,
+                "startTimeFrom": 1642222800,
+                "startTimeTo": 1642230000,
+                "startPlace": {
+                    "latitude": 47.821920813808,
+                    "longitude": 19.039617007839,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Verőce",
+                    "Borbély-hegy",
+                    "Aranyoskút",
+                    "Magyarkút",
+                    "Magyarkút, Irma-forrás",
+                    "Nagy-Kő-hegy",
+                    "Szokolya vasútállomás",
+                    "Szokolya",
+                    "Körtefa tisztás",
+                    "Kóspallag",
+                    "Pusztatorony",
+                    "Rózsa kunyhó",
+                    "Száraz-fák",
+                    "Gál-hegy",
+                    "Kismaros",
+                    "Csattogó-völgy",
+                    "Verőce"
+                ],
+                "params": [
+                    1,
+                    7,
+                    8,
+                    9,
+                    37,
+                    42,
+                    49,
+                    51,
+                    52,
+                    53,
+                    54,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    71,
+                    72,
+                    75,
+                    85,
+                    86,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            },
+            {
+                "displayName": "Börzsöny kapuja 20",
+                "id": 12612,
+                "currency": "HUF",
+                "distance": 20400,
+                "price": 1700,
+                "startTimeFrom": 1642226400,
+                "startTimeTo": 1642233600,
+                "startPlace": {
+                    "latitude": 47.821920813808,
+                    "longitude": 19.039617007839,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Verőce",
+                    "Borbély-hegy",
+                    "Aranyoskút",
+                    "Magyarkút",
+                    "Magyarkút, Irma-forrás",
+                    "Nagy-Kő-hegy",
+                    "Szokolya vasútállomás",
+                    "Magyarkút",
+                    "Új-Társa",
+                    "Csalom-irtás",
+                    "Csattogó-völgy",
+                    "Verőce"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    49,
+                    51,
+                    52,
+                    53,
+                    54,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    64,
+                    65,
+                    66,
+                    71,
+                    72,
+                    75,
+                    85,
+                    86,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            },
+            {
+                "displayName": "Börzsöny kapuja 10",
+                "id": 12613,
+                "currency": "HUF",
+                "distance": 11600,
+                "price": 1200,
+                "startTimeFrom": 1642230000,
+                "startTimeTo": 1642237200,
+                "startPlace": {
+                    "latitude": 47.821920813808,
+                    "longitude": 19.039617007839,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Verőce",
+                    "Borbély-hegy",
+                    "Aranyoskút",
+                    "Magyarkút",
+                    "Magyarkút, Irma-forrás",
+                    "Magyarkút",
+                    "Új-Társa",
+                    "Csalom-irtás",
+                    "Csattogó-völgy",
+                    "Verőce"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    49,
+                    51,
+                    52,
+                    53,
+                    54,
+                    57,
+                    58,
+                    60,
+                    61,
+                    62,
+                    64,
+                    65,
+                    66,
+                    71,
+                    72,
+                    75,
+                    85,
+                    86,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            }
+        ],
+        "regions": [
+            7
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4391,
+        "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között)  - Maraton \/ 30 \/ 15 \/ Light",
+        "date": 1642201200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között) Maraton",
+                "id": 12686,
+                "currency": "HUF",
+                "distance": 43300,
+                "price": 2390,
+                "startTimeFrom": 1642219200,
+                "startTimeTo": 1642226400,
+                "startPlace": {
+                    "latitude": 46.33113,
+                    "longitude": 18.69955,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szekszárd (Csatári körforgalom)",
+                    "Alisca utca",
+                    "Barátság utca",
+                    "Bródy Sándor utca",
+                    "Cacska tető",
+                    "Nagybödő tető",
+                    "Kerék-hegy",
+                    "Bati-kereszt kilátó",
+                    "Szarvas-szurdik",
+                    "Bükkös-erdő",
+                    "Telek-hegy",
+                    "Fazekas-völgy",
+                    "Bodzás-dűlő",
+                    "Sötétvölgyi horgásztó",
+                    "Vár-hegy",
+                    "Öreg-hegy",
+                    "Telek-hegy",
+                    "Grábóci erdészlak",
+                    "Grábóc",
+                    "Szálka",
+                    "Brányoki erdő",
+                    "Mausz kápolna",
+                    "Szőlőhegy",
+                    "Harmat utca",
+                    "Zengő utca",
+                    "Levente utca",
+                    "Hébér utca",
+                    "Bródy Sándor utca",
+                    "Barátság utca",
+                    "Alisca utca",
+                    "Szekszárd (Csatári körforgalom)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    54,
+                    59,
+                    60,
+                    64,
+                    66,
+                    72,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között) 30",
+                "id": 12687,
+                "currency": "HUF",
+                "distance": 34200,
+                "price": 2390,
+                "startTimeFrom": 1642222800,
+                "startTimeTo": 1642226400,
+                "startPlace": {
+                    "latitude": 46.33113,
+                    "longitude": 18.69955,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szekszárd (Csatári körforgalom)",
+                    "Alisca utca",
+                    "Barátság utca",
+                    "Bródy Sándor utca",
+                    "Csacska-tető",
+                    "Nagybödő tető",
+                    "Kerék-hegy",
+                    "Bati-kereszt kilátó",
+                    "Szarvas-szurdik",
+                    "Bükkös erdő",
+                    "Hármas-halom",
+                    "Grábóci erdészlak",
+                    "Grábóc",
+                    "Szálka",
+                    "Brányoki erdő",
+                    "Mausz kápolna",
+                    "Szőlőhegy",
+                    "Harmat utca",
+                    "Zengő utca",
+                    "Levente utca",
+                    "Hébér utca",
+                    "Bródy Sándor utca",
+                    "Bartáság utca",
+                    "Alisca uta",
+                    "Szekszárd (Csatári körforgalom)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    54,
+                    59,
+                    60,
+                    64,
+                    66,
+                    72,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között) 15",
+                "id": 12688,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 2390,
+                "startTimeFrom": 1642226400,
+                "startTimeTo": 1642237200,
+                "startPlace": {
+                    "latitude": 46.33113,
+                    "longitude": 18.69955,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szekszárd (Csatári körforgalom)",
+                    "Alisca utca",
+                    "Barátság utca-> Bródy Sándor utca",
+                    "Csacska szurdik",
+                    "Nagybödő tető",
+                    "Kerék-hegy",
+                    "Bati-kereszt kilátó",
+                    "Szarvas-szurdik",
+                    "Bükkös erdő",
+                    "Gurovica-tető",
+                    "Hébér utca",
+                    "Bródy Sándor utca",
+                    "Barátság utca",
+                    "Alisca utca",
+                    "Szekszárd (Csatári körforgalom)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    54,
+                    59,
+                    60,
+                    64,
+                    66,
+                    72,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között) Light",
+                "id": 12689,
+                "currency": "HUF",
+                "distance": 8700,
+                "price": 2390,
+                "startTimeFrom": 1642230000,
+                "startTimeTo": 1642244400,
+                "startPlace": {
+                    "latitude": 46.33574,
+                    "longitude": 18.66257,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Szekszárd (Baka István Általános Iskola)",
+                    "Barátság utca",
+                    "Bródy Sándor utca",
+                    "Heimann Családi Birtok elágazó",
+                    "Mester utca",
+                    "Levendula utca",
+                    "Bródy Sándor utca",
+                    "Barátság utca",
+                    "Szekszárd (Baka István Általános Iskola)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    54,
+                    59,
+                    60,
+                    64,
+                    66,
+                    72,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            }
+        ],
+        "regions": [
+            38
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4010,
+        "displayName": "Szent Margit nyomában  - 8 km",
+        "date": 1642201200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Szent Margit nyomában 8 km",
+                "id": 11691,
+                "currency": "HUF",
+                "distance": 8800,
+                "price": 1000,
+                "startTimeFrom": 1642230000,
+                "startTimeTo": 1642237200,
+                "startPlace": {
+                    "latitude": 47.53290355,
+                    "longitude": 19.0383777483,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Budapest, Katonavárosi Amfiteátrum",
+                    "Klarissza kolostor romjai",
+                    "Örmény népírtás emlékműve",
+                    "Árpád híd",
+                    "Zenélő-kút",
+                    "Másodlagosan beépített római sírkő",
+                    "Szent Mihály kápolna",
+                    "Szent Margit sírja",
+                    "Ferences kolostor romjai",
+                    "Margit híd",
+                    "Irgalmas-rendi kápolna",
+                    "Szentháromság oszlop",
+                    "Szépvölgyi kápolna",
+                    "Sarlós Boldogasszony templom",
+                    "Budapest, Katonavárosi Amfiteátrum"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    45,
+                    67,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    95,
+                    96,
+                    98,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            9
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4319,
+        "displayName": "Téli Teljesítménytúra  - 25",
+        "date": 1642201200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Téli Teljesítménytúra 25",
+                "id": 12484,
+                "currency": "HUF",
+                "distance": 25000,
+                "price": 1500,
+                "startTimeFrom": 1642230900,
+                "startTimeTo": 1642233600,
+                "startPlace": {
+                    "latitude": 47.92676,
+                    "longitude": 19.3703315,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Nógrádkövesd",
+                    "Halyagos-völgy",
+                    "legéndi elág.",
+                    "Romhányi elág.",
+                    "Prónay kilátó",
+                    "Égett erdő",
+                    "Hársas-tető",
+                    "Bánki-tó",
+                    "Rétság"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    45,
+                    60,
+                    68,
+                    76
+                ]
+            }
+        ],
+        "regions": [
+            13
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4344,
+        "displayName": "Évkezdő tekergő – a Kőszegi-Hegység Télen  - 15km",
+        "date": 1642201200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Évkezdő tekergő – a Kőszegi-Hegység Télen 15km",
+                "id": 12545,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 1500,
+                "startTimeFrom": 1642231800,
+                "startTimeTo": 1642237200,
+                "startPlace": {
+                    "latitude": 47.397662,
+                    "longitude": 16.535627,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kőszeg, Csónakázó-tó (aqua-alpannonia bemutatóház)",
+                    "Andalgó",
+                    "Pintér-tető",
+                    "Ördögtányér",
+                    "Fatalin-bükkök",
+                    "Óház-kilátó",
+                    "Szabó-hegyi szalonnasütő",
+                    "Szénsavas-kút",
+                    "Természetvédelmi Látogatóközpont",
+                    "Királyvölgy",
+                    "Szulejmán-kilátó",
+                    "Trianoni-kereszt",
+                    "Kálvária-templom",
+                    "Koronaőrző-bunker",
+                    "Kőszeg, Csónakázó-tó (aqua-alpannonia bemutatóház)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    59,
+                    60,
+                    63,
+                    66,
+                    71,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    95,
+                    96,
+                    97,
+                    105,
+                    106,
+                    108,
+                    109,
+                    112,
+                    113
+                ]
+            }
+        ],
+        "regions": [
+            23
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4374,
+        "displayName": "Kiss Antal Emléktúra (vezetett)  - 22 \/ 15 \/ 9,5",
+        "date": 1642287600,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Kiss Antal Emléktúra (vezetett) 22",
+                "id": 12652,
+                "currency": "HUF",
+                "distance": 22000,
+                "price": 0,
+                "startTimeFrom": 1642320000,
+                "startTimeTo": 1642320000,
+                "startPlace": {
+                    "latitude": 47.1315036,
+                    "longitude": 20.223805,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [],
+                "params": [
+                    1,
+                    7,
+                    9
+                ]
+            },
+            {
+                "displayName": "Kiss Antal Emléktúra (vezetett) 15",
+                "id": 12653,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 0,
+                "startTimeFrom": 1642320000,
+                "startTimeTo": 1642320000,
+                "startPlace": {
+                    "latitude": 47.1315036,
+                    "longitude": 20.223805,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [],
+                "params": [
+                    1,
+                    7,
+                    9
+                ]
+            },
+            {
+                "displayName": "Kiss Antal Emléktúra (vezetett) 9,5",
+                "id": 12654,
+                "currency": "HUF",
+                "distance": 9500,
+                "startTimeFrom": 1642320000,
+                "startTimeTo": 1642320000,
+                "startPlace": {
+                    "latitude": 47.1315036,
+                    "longitude": 20.223805,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [],
+                "params": [
+                    1,
+                    7,
+                    9
+                ]
+            }
+        ],
+        "regions": [
+            2
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4305,
+        "displayName": "Téli túra 500  - (Somló)",
+        "date": 1642287600,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Téli túra 500 (Somló)",
+                "id": 12451,
+                "currency": "HUF",
+                "distance": 12100,
+                "price": 1000,
+                "startTimeFrom": 1642318200,
+                "startTimeTo": 1642323600,
+                "startPlace": {
+                    "latitude": 47.1244747,
+                    "longitude": 17.3685204,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Somlóvásárhely",
+                    "Hegykapu Vendéglő",
+                    "Taposó-kút",
+                    "Ilona kápolna",
+                    "Séd-fő forrás",
+                    "Kőkép",
+                    "Szent Márton kápolna",
+                    "Somlóvár",
+                    "Szent István-kilátó",
+                    "Szent Margit kápolna",
+                    "Hegykapu Vendéglő",
+                    "Somlóvásárhely"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    12,
+                    37,
+                    45,
+                    67,
+                    95,
+                    96,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            35
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4316,
+        "displayName": "Fagyos Az út a Másik Hídig  - 20 Gyalogos \/ Futó \/ 20 Kerékpáros \/ 4 Csiga-Biga  Híd",
+        "date": 1642287600,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Fagyos Az út a Másik Hídig 20 Gyalogos \/ Futó",
+                "id": 12474,
+                "currency": "HUF",
+                "distance": 20000,
+                "price": 2500,
+                "startTimeFrom": 1642316400,
+                "startTimeTo": 1642323600,
+                "startPlace": {
+                    "latitude": 47.56376745,
+                    "longitude": 19.062858833844,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Újpesti vasúti híd hídfője",
+                    "Római part",
+                    "Kossuth Lajos üdülőpart",
+                    "Pünkösdfürdői gát",
+                    "Duna  sétány ",
+                    "Lupa -szigeti út",
+                    "Gát utca",
+                    "Megyeri híd",
+                    "Váci út",
+                    "Szilas patak",
+                    "Megyeri út ",
+                    "Váci út",
+                    "Tímár utca",
+                    "Duna sor",
+                    "Zsilip utca",
+                    "Jelölt ösvény ",
+                    "Népsziget ",
+                    "Duna part ",
+                    "Népsziget csúcs",
+                    "Népsziget út",
+                    "Újpesti vasúti híd ",
+                    "Hídfő"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    45,
+                    66,
+                    67,
+                    68,
+                    93,
+                    96,
+                    105,
+                    106,
+                    110,
+                    111
+                ]
+            },
+            {
+                "displayName": "Fagyos Az út a Másik Hídig 20 Kerékpáros",
+                "id": 12475,
+                "currency": "HUF",
+                "distance": 20000,
+                "price": 2500,
+                "startTimeFrom": 1642320000,
+                "startTimeTo": 1642330800,
+                "startPlace": {
+                    "latitude": 47.56376745,
+                    "longitude": 19.062858833844,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Újpesti vasúti híd hídfője",
+                    "Római part",
+                    "Kossuth Lajos üdülőpart",
+                    "Pünkösdfürdői gát",
+                    "Duna  sétány ",
+                    "Lupa -szigeti út",
+                    "Gát utca",
+                    "Megyeri híd",
+                    "Váci út",
+                    "Szilas patak",
+                    "Megyeri út ",
+                    "Váci út",
+                    "Tímár utca",
+                    "Duna sor",
+                    "Zsilip utca",
+                    "Jelölt ösvény ",
+                    "Népsziget ",
+                    "Duna part ",
+                    "Népsziget csúcs",
+                    "Népsziget út",
+                    "Újpesti vasúti híd ",
+                    "Hídfő"
+                ],
+                "params": [
+                    3,
+                    7,
+                    9,
+                    37,
+                    38,
+                    45,
+                    66,
+                    67,
+                    68,
+                    93,
+                    96,
+                    105,
+                    106,
+                    110,
+                    111
+                ]
+            },
+            {
+                "displayName": "Fagyos Az út a Másik Hídig 4 Csiga-Biga  Híd",
+                "id": 12476,
+                "currency": "HUF",
+                "distance": 4800,
+                "price": 1500,
+                "startTimeFrom": 1642320000,
+                "startTimeTo": 1642330800,
+                "startPlace": {
+                    "latitude": 47.56376745,
+                    "longitude": 19.062858833844,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Újpesti vasúti Híd",
+                    "Népsziget Déli csücsök",
+                    "Újpesti vasúti Híd"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    45,
+                    66,
+                    67,
+                    68,
+                    93,
+                    96,
+                    105,
+                    106,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            9
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4390,
+        "displayName": "Csere-hegyi Barangolások  - 10 \/ 6",
+        "date": 1642806000,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Csere-hegyi Barangolások 10",
+                "id": 12684,
+                "currency": "HUF",
+                "distance": 10000,
+                "price": 1900,
+                "startTimeFrom": 1642838400,
+                "startTimeTo": 1642842000,
+                "startPlace": {
+                    "latitude": 46.9945708,
+                    "longitude": 17.9738079,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Rajt, Alsóörs, Felső Kocsma",
+                    "Somlyó-hegyi Kilátó",
+                    "Felsőhegyi Mérőtorony",
+                    "Csere-hegyi Kilátó"
+                ],
+                "params": [
+                    1,
+                    7,
+                    37,
+                    41,
+                    69,
+                    76,
+                    77,
+                    87,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    105,
+                    106,
+                    112,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Csere-hegyi Barangolások 6",
+                "id": 12685,
+                "currency": "HUF",
+                "distance": 6000,
+                "price": 1500,
+                "startTimeFrom": 1642840200,
+                "startTimeTo": 1642843800,
+                "startPlace": {
+                    "latitude": 46.9945708,
+                    "longitude": 17.9738079,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Alsóörs, Felső Kocsma",
+                    "Somlyó-hegyi Kilátó",
+                    "Csere-hegyi Kilátó",
+                    "Alsóörs, Felső Kocsma"
+                ],
+                "params": [
+                    1,
+                    7,
+                    37,
+                    41,
+                    69,
+                    76,
+                    77,
+                    87,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    105,
+                    106,
+                    112,
+                    113,
+                    119,
+                    120
+                ]
+            }
+        ],
+        "regions": [
+            5
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4398,
+        "displayName": "Pilisi Évkezdő  - Maratonka \/ Félmaraton \/ Maraton",
+        "date": 1642806000,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Pilisi Évkezdő Maratonka",
+                "id": 12709,
+                "currency": "HUF",
+                "distance": 7000,
+                "price": 2400,
+                "startTimeFrom": 1642834800,
+                "startTimeTo": 1642852800,
+                "startPlace": {
+                    "latitude": 47.6376897,
+                    "longitude": 18.8293572,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Piliscsaba vá.",
+                    "Klotildliget (Pilisi vándorlás pecsételőhely)",
+                    "Nagy-Kopasz (Pilisi kilátások pecsételőhely)",
+                    "Piliscsaba vá"
+                ],
+                "params": [
+                    1,
+                    7,
+                    43,
+                    45,
+                    51,
+                    64,
+                    93,
+                    95,
+                    96,
+                    105,
+                    106,
+                    108,
+                    109,
+                    112,
+                    113
+                ]
+            },
+            {
+                "displayName": "Pilisi Évkezdő Félmaraton",
+                "id": 12710,
+                "currency": "HUF",
+                "distance": 21000,
+                "price": 2600,
+                "startTimeFrom": 1642831200,
+                "startTimeTo": 1642842000,
+                "startPlace": {
+                    "latitude": 47.6376897,
+                    "longitude": 18.8293572,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Piliscsaba vá.",
+                    "Nagy Kopasz (Pilisi kilátások pecsételőhely)",
+                    "Basina (Pilisi kilátások pecsételőhely)",
+                    "Klastrompuszta (OKT pecsételőhely)",
+                    "Piliscsaba vá."
+                ],
+                "params": [
+                    1,
+                    7,
+                    43,
+                    45,
+                    51,
+                    64,
+                    93,
+                    95,
+                    96,
+                    105,
+                    106,
+                    108,
+                    109,
+                    112,
+                    113
+                ]
+            },
+            {
+                "displayName": "Pilisi Évkezdő Maraton",
+                "id": 12711,
+                "currency": "HUF",
+                "distance": 42000,
+                "price": 2900,
+                "startTimeFrom": 1642827600,
+                "startTimeTo": 1642834800,
+                "startPlace": {
+                    "latitude": 47.6376897,
+                    "longitude": 18.8293572,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Piliscsaba vá.",
+                    "Nagy Kopasz (Pilisi kilátások pecsételőhely)",
+                    "Basina (Pilisi kilátások pecsételőhely)",
+                    "Fekete-kő (Pilisi kilátások pecsételőhely)",
+                    "Pilisszentlélek (Pilisi vándorlások pecsételőhely)",
+                    "Kétágú-hegy (Pilisi kilátások pecsételőhely)",
+                    "Fekete-hegy (Pilisi kilátások pecsételőhely)",
+                    "Klastrompuszta (OKT pecsételőhely)",
+                    "Piliscsaba vá."
+                ],
+                "params": [
+                    1,
+                    7,
+                    43,
+                    45,
+                    51,
+                    64,
+                    93,
+                    95,
+                    96,
+                    105,
+                    106,
+                    108,
+                    109,
+                    112,
+                    113
+                ]
+            }
+        ],
+        "regions": [
+            74,
+            75
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4012,
+        "displayName": "Kőről kőre a Bakonyban  - 20 \/ 40 (Hajszabarna Maraton)",
+        "date": 1642806000,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Kőről kőre a Bakonyban 20",
+                "id": 11693,
+                "currency": "HUF",
+                "distance": 22700,
+                "price": 1800,
+                "startTimeFrom": 1642834800,
+                "startTimeTo": 1642842000,
+                "startPlace": {
+                    "latitude": 47.2544325,
+                    "longitude": 17.731484559141,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Bakonybél, Pikoló Vendéglő ",
+                    "Árpád-kút",
+                    "Oltár-kő",
+                    "Csúcs-hegy",
+                    "Borostyán-kő",
+                    "Hegyes-kő",
+                    "Fehér-kő",
+                    "Szökrényes-kő",
+                    "Augusztin-tanya",
+                    "Rák-tanya",
+                    "Szent-kút",
+                    "Bakonybél, Pikoló Vendéglő"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    44,
+                    45,
+                    67,
+                    95,
+                    96,
+                    111,
+                    112
+                ]
+            },
+            {
+                "displayName": "Kőről kőre a Bakonyban 40 (Hajszabarna Maraton)",
+                "id": 11694,
+                "currency": "HUF",
+                "distance": 42900,
+                "price": 1800,
+                "startTimeFrom": 1642827600,
+                "startTimeTo": 1642834800,
+                "startPlace": {
+                    "latitude": 47.2544325,
+                    "longitude": 17.731484559141,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Bakonybél, Pikoló Vendéglő ",
+                    "Szent-kút",
+                    "Hegyes-kő",
+                    "Fehér-kő",
+                    "Szökrényes-kő",
+                    "Augusztin-tanya",
+                    "Hajagok",
+                    "Öreghálás",
+                    "Pápavár-alja",
+                    "Hajszabarna",
+                    "Tevelvár",
+                    "Királykapu",
+                    "Hideg-völgy",
+                    "Gerence-völgy",
+                    "Huszár-kő",
+                    "Odvaskő Panzió",
+                    "Odvaskő-barlang",
+                    "Bakonyújvár",
+                    "Tönkölösi Likaskő-barlang",
+                    "Bakonybél, Pikoló Vendéglő"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    44,
+                    45,
+                    46,
+                    67,
+                    95,
+                    96,
+                    111,
+                    112
+                ]
+            }
+        ],
+        "regions": [
+            4
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4322,
+        "displayName": "Mátrai Tekergés Januárban  - 30 \/ 20 \/ 10 \/ 5",
+        "date": 1642806000,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Mátrai Tekergés Januárban 30",
+                "id": 12489,
+                "currency": "HUF",
+                "distance": 30000,
+                "price": 2500,
+                "startTimeFrom": 1642831200,
+                "startTimeTo": 1642838400,
+                "startPlace": {
+                    "latitude": 47.8695649,
+                    "longitude": 19.9782865,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Mátraháza",
+                    "Vörösmarty t.h",
+                    "Parádsasvár",
+                    "Galyatető Kilátó",
+                    "Mátraalmás",
+                    "Galyavár",
+                    "Galyatető",
+                    "Vörösmarty t.h",
+                    "Hatökör ura",
+                    "Mátraháza"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    45,
+                    93,
+                    96,
+                    106,
+                    110,
+                    111
+                ]
+            },
+            {
+                "displayName": "Mátrai Tekergés Januárban 20",
+                "id": 12490,
+                "currency": "HUF",
+                "distance": 20000,
+                "price": 2500,
+                "startTimeFrom": 1642831200,
+                "startTimeTo": 1642842000,
+                "startPlace": {
+                    "latitude": 47.8695649,
+                    "longitude": 19.9782865,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Mátraháza",
+                    "Vörösmarty t.h",
+                    "Kék sáv",
+                    "Galyatető Kilátó",
+                    "Kék kereszt",
+                    "Vörösmarty t.h",
+                    "Hatökör ura",
+                    "Mátraháza"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    45,
+                    93,
+                    96,
+                    106,
+                    110,
+                    111
+                ]
+            },
+            {
+                "displayName": "Mátrai Tekergés Januárban 10",
+                "id": 12491,
+                "currency": "HUF",
+                "distance": 10000,
+                "price": 2500,
+                "startTimeFrom": 1642831200,
+                "startTimeTo": 1642845600,
+                "startPlace": {
+                    "latitude": 47.8695649,
+                    "longitude": 19.9782865,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Mátraháza",
+                    "Vörösmarty t.h",
+                    "Kék kereszt",
+                    "Zöld négyzet",
+                    "Hatökör ura",
+                    "Mátraháza"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    45,
+                    93,
+                    96,
+                    106,
+                    110,
+                    111
+                ]
+            },
+            {
+                "displayName": "Mátrai Tekergés Januárban 5",
+                "id": 12492,
+                "currency": "HUF",
+                "distance": 5000,
+                "price": 2000,
+                "startTimeFrom": 1642834800,
+                "startTimeTo": 1642849200,
+                "startPlace": {
+                    "latitude": 47.8695649,
+                    "longitude": 19.9782865,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Mátraháza környékén jelzett útvonalon!"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    38,
+                    45,
+                    93,
+                    96,
+                    106,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            25
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4330,
+        "displayName": "Kincsesbánya  - 30 \/ 20 \/ 10",
+        "date": 1642806000,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Kincsesbánya 30",
+                "id": 12509,
+                "currency": "HUF",
+                "distance": 30000,
+                "price": 2000,
+                "startTimeFrom": 1642831200,
+                "startTimeTo": 1642838400,
+                "startPlace": {
+                    "latitude": 47.262658,
+                    "longitude": 18.273293,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kincsesbánya",
+                    "Szeg-hegy",
+                    "P sáv",
+                    "KP",
+                    "Gányás",
+                    "Műút",
+                    "Zseri Vadászház",
+                    "Pisztrángos-tó",
+                    "Ádám-Éva fa",
+                    "Varjúvár",
+                    "Bodajk, sípálya",
+                    "Gaja-vendéglő",
+                    "Bodajk, Kálvária",
+                    "Alba Regia-forrás",
+                    "Vasutas pihenő",
+                    "K",
+                    "Fehérvárcsurgói-kastély",
+                    "Gátőrház",
+                    "Kincsesbánya"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    54,
+                    57,
+                    59,
+                    60,
+                    64,
+                    66,
+                    78,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            },
+            {
+                "displayName": "Kincsesbánya 20",
+                "id": 12510,
+                "currency": "HUF",
+                "distance": 21200,
+                "price": 1500,
+                "startTimeFrom": 1642831200,
+                "startTimeTo": 1642842000,
+                "startPlace": {
+                    "latitude": 47.262658,
+                    "longitude": 18.273293,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kincsesbánya",
+                    "Szeg-hegy",
+                    "P sáv",
+                    "KP",
+                    "Gányás",
+                    "Műút",
+                    "Zseri Vadászház",
+                    "Pisztrángos-tó",
+                    "K",
+                    "Fehérvárcsurgói-kastély",
+                    "Gátőrház",
+                    "Kincsesbánya"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    54,
+                    57,
+                    59,
+                    60,
+                    64,
+                    66,
+                    88,
+                    89,
+                    91,
+                    92,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            },
+            {
+                "displayName": "Kincsesbánya 10",
+                "id": 12511,
+                "currency": "HUF",
+                "distance": 8000,
+                "price": 1000,
+                "startTimeFrom": 1642831200,
+                "startTimeTo": 1642842000,
+                "startPlace": {
+                    "latitude": 47.262658,
+                    "longitude": 18.273293,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kincsesbánya",
+                    "Szeg-hegy",
+                    "P sáv",
+                    "KP",
+                    "Üdülő",
+                    "Kincsesbánya"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    54,
+                    57,
+                    59,
+                    60,
+                    64,
+                    66,
+                    88,
+                    89,
+                    91,
+                    92,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    106,
+                    108,
+                    109
+                ]
+            }
+        ],
+        "regions": [
+            60
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4321,
+        "displayName": "Szigetelő  - 20 \/ 15 \/ 5",
+        "date": 1642892400,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Szigetelő 20",
+                "id": 12486,
+                "currency": "HUF",
+                "distance": 20700,
+                "price": 2100,
+                "startTimeFrom": 1642917600,
+                "startTimeTo": 1642924800,
+                "startPlace": {
+                    "latitude": 47.5503972,
+                    "longitude": 19.050936,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Óbudai-sziget, parkoló (K-híd)",
+                    "Margit-sziget, Zenélőkút",
+                    "Margit-sziget, Millenniumi emlékmű",
+                    "Úszódaru utcai játszótér",
+                    "Újpesti vasúti híd, pesti hídfő",
+                    "Graphisoft Park, Rubik kocka",
+                    "Óbudai-sziget, szigetcsúcs",
+                    "Óbudai-sziget, csúszda-domb",
+                    "Óbudai-sziget, Sport vendéglő"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    45,
+                    68,
+                    75,
+                    76,
+                    78,
+                    88,
+                    90,
+                    91,
+                    98,
+                    108,
+                    109,
+                    111,
+                    112
+                ]
+            },
+            {
+                "displayName": "Szigetelő 15",
+                "id": 12487,
+                "currency": "HUF",
+                "distance": 13500,
+                "price": 2100,
+                "startTimeFrom": 1642921200,
+                "startTimeTo": 1642932000,
+                "startPlace": {
+                    "latitude": 47.5180858,
+                    "longitude": 19.0447001,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Margit-sziget, Millenniumi emlékmű",
+                    "Margit-sziget, Zenélőkút",
+                    "Úszódaru utcai játszótér",
+                    "Újpesti vasúti híd, pesti hídfő",
+                    "Graphisoft Park, Rubik kocka",
+                    "Óbudai-sziget, csúszda-domb",
+                    "Óbudai-sziget, Sport vendéglő"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    45,
+                    68,
+                    75,
+                    76,
+                    78,
+                    88,
+                    90,
+                    91,
+                    98,
+                    108,
+                    109,
+                    111,
+                    112
+                ]
+            },
+            {
+                "displayName": "Szigetelő 5",
+                "id": 12488,
+                "currency": "HUF",
+                "distance": 4000,
+                "price": 2100,
+                "startTimeFrom": 1642924800,
+                "startTimeTo": 1642939200,
+                "startPlace": {
+                    "latitude": 47.5503972,
+                    "longitude": 19.050936,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Óbudai-sziget, parkoló (K-híd)",
+                    "Óbudai-sziget, szigetcsúcs",
+                    "Óbudai-sziget, csúszda-domb",
+                    "Óbudai-sziget, Sport vendéglő"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    37,
+                    42,
+                    45,
+                    68,
+                    75,
+                    76,
+                    78,
+                    88,
+                    90,
+                    91,
+                    98,
+                    108,
+                    109,
+                    111,
+                    112
+                ]
+            }
+        ],
+        "regions": [
+            9
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4392,
+        "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között)  - Maraton \/ 30 \/ 15 \/ Light",
+        "date": 1643410800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között) Maraton",
+                "id": 12690,
+                "currency": "HUF",
+                "distance": 43300,
+                "price": 2390,
+                "startTimeFrom": 1643428800,
+                "startTimeTo": 1643436000,
+                "startPlace": {
+                    "latitude": 46.33113,
+                    "longitude": 18.69955,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szekszárd (Csatári körforgalom)",
+                    "Alisca utca",
+                    "Barátság utca",
+                    "Bródy Sándor utca",
+                    "Cacska tető",
+                    "Nagybödő tető",
+                    "Kerék-hegy",
+                    "Bati-kereszt kilátó",
+                    "Szarvas-szurdik",
+                    "Bükkös-erdő",
+                    "Telek-hegy",
+                    "Fazekas-völgy",
+                    "Bodzás-dűlő",
+                    "Sötétvölgyi horgásztó",
+                    "Vár-hegy",
+                    "Öreg-hegy",
+                    "Telek-hegy",
+                    "Grábóci erdészlak",
+                    "Grábóc",
+                    "Szálka",
+                    "Brányoki erdő",
+                    "Mausz kápolna",
+                    "Szőlőhegy",
+                    "Harmat utca",
+                    "Zengő utca",
+                    "Levente utca",
+                    "Hébér utca",
+                    "Bródy Sándor utca",
+                    "Barátság utca",
+                    "Alisca utca",
+                    "Szekszárd (Csatári körforgalom)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    54,
+                    59,
+                    60,
+                    64,
+                    66,
+                    72,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között) 30",
+                "id": 12691,
+                "currency": "HUF",
+                "distance": 34200,
+                "price": 2390,
+                "startTimeFrom": 1643432400,
+                "startTimeTo": 1643436000,
+                "startPlace": {
+                    "latitude": 46.33113,
+                    "longitude": 18.69955,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szekszárd (Csatári körforgalom)",
+                    "Alisca utca",
+                    "Barátság utca",
+                    "Bródy Sándor utca",
+                    "Csacska-tető",
+                    "Nagybödő tető",
+                    "Kerék-hegy",
+                    "Bati-kereszt kilátó",
+                    "Szarvas-szurdik",
+                    "Bükkös erdő",
+                    "Hármas-halom",
+                    "Grábóci erdészlak",
+                    "Grábóc",
+                    "Szálka",
+                    "Brányoki erdő",
+                    "Mausz kápolna",
+                    "Szőlőhegy",
+                    "Harmat utca",
+                    "Zengő utca",
+                    "Levente utca",
+                    "Hébér utca",
+                    "Bródy Sándor utca",
+                    "Bartáság utca",
+                    "Alisca uta",
+                    "Szekszárd (Csatári körforgalom)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    54,
+                    59,
+                    60,
+                    64,
+                    66,
+                    72,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között) 15",
+                "id": 12692,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 2390,
+                "startTimeFrom": 1643436000,
+                "startTimeTo": 1643446800,
+                "startPlace": {
+                    "latitude": 46.33113,
+                    "longitude": 18.69955,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szekszárd (Csatári körforgalom)",
+                    "Alisca utca",
+                    "Barátság utca-> Bródy Sándor utca",
+                    "Csacska szurdik",
+                    "Nagybödő tető",
+                    "Kerék-hegy",
+                    "Bati-kereszt kilátó",
+                    "Szarvas-szurdik",
+                    "Bükkös erdő",
+                    "Gurovica-tető",
+                    "Hébér utca",
+                    "Bródy Sándor utca",
+                    "Barátság utca",
+                    "Alisca utca",
+                    "Szekszárd (Csatári körforgalom)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    54,
+                    59,
+                    60,
+                    64,
+                    66,
+                    72,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Bartina (teljesítménytúraként: 01.15-én és 01.29-én; instant túraként 01.15-02.28 között) Light",
+                "id": 12693,
+                "currency": "HUF",
+                "distance": 8700,
+                "price": 2390,
+                "startTimeFrom": 1643439600,
+                "startTimeTo": 1643454000,
+                "startPlace": {
+                    "latitude": 46.33574,
+                    "longitude": 18.66257,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Szekszárd (Baka István Általános Iskola)",
+                    "Barátság utca",
+                    "Bródy Sándor utca",
+                    "Heimann Családi Birtok elágazó",
+                    "Mester utca",
+                    "Levendula utca",
+                    "Bródy Sándor utca",
+                    "Barátság utca",
+                    "Szekszárd (Baka István Általános Iskola)"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    54,
+                    59,
+                    60,
+                    64,
+                    66,
+                    72,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    101,
+                    102,
+                    105,
+                    108,
+                    109,
+                    119,
+                    120
+                ]
+            }
+        ],
+        "regions": [
+            38
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4215,
+        "displayName": "Farkas-erdő kívül-belül  - 14 \/ 9",
+        "date": 1643410800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Farkas-erdő kívül-belül 14",
+                "id": 12244,
+                "currency": "HUF",
+                "distance": 14000,
+                "price": 1900,
+                "startTimeFrom": 1643436000,
+                "startTimeTo": 1643454000,
+                "startPlace": {
+                    "latitude": 47.574381987417,
+                    "longitude": 19.114543451872,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Újpest, Atlétikai stadion",
+                    "Szilas-patak part",
+                    "Mogyoródi-patak part",
+                    "Farkas-erdő",
+                    "Szilas-patak part",
+                    "Újpest, Atlétikai stadion"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    45,
+                    50,
+                    51,
+                    64,
+                    66,
+                    93,
+                    94,
+                    95,
+                    96,
+                    98,
+                    105,
+                    106,
+                    108,
+                    109,
+                    113
+                ]
+            },
+            {
+                "displayName": "Farkas-erdő kívül-belül 9",
+                "id": 12245,
+                "currency": "HUF",
+                "distance": 9000,
+                "price": 1600,
+                "startTimeFrom": 1643436000,
+                "startTimeTo": 1643457600,
+                "startPlace": {
+                    "latitude": 47.574381987417,
+                    "longitude": 19.114543451872,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Újpest, Atlétikai stadion",
+                    "Szilas-patak part",
+                    "Farkas-erdő",
+                    "Szilas-patak part",
+                    "Újpest, Atlétikai stadion"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    45,
+                    50,
+                    51,
+                    64,
+                    66,
+                    93,
+                    94,
+                    95,
+                    96,
+                    98,
+                    105,
+                    106,
+                    108,
+                    109,
+                    121,
+                    122
+                ]
+            }
+        ],
+        "regions": [
+            9
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4326,
+        "displayName": "Jelzetlen utakon Zemplénben 1.(vezetett túra)  - Csattantyú-15 \/ Nagy-Szarvaskő 15",
+        "date": 1643410800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Jelzetlen utakon Zemplénben 1.(vezetett túra) Csattantyú-15",
+                "id": 12499,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 500,
+                "startTimeFrom": 1643439600,
+                "startTimeTo": 1643439600,
+                "startPlace": {
+                    "latitude": 48.428022697685,
+                    "longitude": 21.441962918165,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kőkapu",
+                    " Nagy-Teremkő",
+                    " Csattantyú-hegy",
+                    "Szaru-kő",
+                    "Kőkapu"
+                ],
+                "params": [
+                    1,
+                    7,
+                    73,
+                    74,
+                    111
+                ]
+            },
+            {
+                "displayName": "Jelzetlen utakon Zemplénben 1.(vezetett túra) Nagy-Szarvaskő 15",
+                "id": 12500,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 500,
+                "startTimeFrom": 1643454000,
+                "startTimeTo": 1643454000,
+                "startPlace": {
+                    "latitude": 48.428022697685,
+                    "longitude": 21.441962918165,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kőkapu",
+                    "Rostalló",
+                    "Mar-lak",
+                    "Sólyom-kő",
+                    "Rostallói elágazás",
+                    "Sas bérc",
+                    "Nagy Szarvaskő",
+                    "Vajda völgy",
+                    "Kőkapu"
+                ],
+                "params": [
+                    1,
+                    7,
+                    73,
+                    74,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            47
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4336,
+        "displayName": "Bükki Kihívás 2022  - 20 km \/ 30 km \/ 45 km",
+        "date": 1643410800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Bükki Kihívás 2022 20 km",
+                "id": 12519,
+                "currency": "HUF",
+                "distance": 19700,
+                "price": 2500,
+                "startTimeFrom": 1643479200,
+                "startTimeTo": 1643481000,
+                "startPlace": {
+                    "latitude": 47.97788665,
+                    "longitude": 20.429431038226,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Felsőtárkány faluház",
+                    "Toldi kunyhó",
+                    "Samassa-ház",
+                    "Felsőtárkány faluház"
+                ],
+                "params": [
+                    1,
+                    8,
+                    9,
+                    13,
+                    37,
+                    43,
+                    46,
+                    47,
+                    54,
+                    59,
+                    60,
+                    61,
+                    63,
+                    64,
+                    80,
+                    88,
+                    89,
+                    91,
+                    92,
+                    94,
+                    95,
+                    96,
+                    101,
+                    105,
+                    106,
+                    108,
+                    109,
+                    113
+                ]
+            },
+            {
+                "displayName": "Bükki Kihívás 2022 30 km",
+                "id": 12520,
+                "currency": "HUF",
+                "distance": 30000,
+                "price": 3200,
+                "startTimeFrom": 1643472000,
+                "startTimeTo": 1643473800,
+                "startPlace": {
+                    "latitude": 47.97788665,
+                    "longitude": 20.429431038226,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Felsőtárkány faluház",
+                    "Varró ház",
+                    "Guba ház",
+                    "Bél-kő",
+                    "Őr-kő",
+                    "Pes-kő ház",
+                    "Felsőtárkány faluház"
+                ],
+                "params": [
+                    1,
+                    8,
+                    9,
+                    13,
+                    37,
+                    43,
+                    46,
+                    47,
+                    54,
+                    59,
+                    60,
+                    61,
+                    63,
+                    64,
+                    80,
+                    88,
+                    89,
+                    91,
+                    92,
+                    94,
+                    95,
+                    96,
+                    101,
+                    105,
+                    106,
+                    108,
+                    109,
+                    113
+                ]
+            },
+            {
+                "displayName": "Bükki Kihívás 2022 45 km",
+                "id": 12521,
+                "currency": "HUF",
+                "distance": 45200,
+                "price": 4000,
+                "startTimeFrom": 1643464800,
+                "startTimeTo": 1643466600,
+                "startPlace": {
+                    "latitude": 47.97788665,
+                    "longitude": 20.429431038226,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Felsőtárkány, faluház",
+                    "Őr-kő ház",
+                    "Istállós-kő",
+                    "Samassa ház",
+                    "Tar-kő",
+                    "Három-kő",
+                    "Tamás-kúti th.",
+                    "Megyehatár",
+                    "Felsőtárkány, faluház"
+                ],
+                "params": [
+                    1,
+                    8,
+                    9,
+                    13,
+                    37,
+                    43,
+                    46,
+                    47,
+                    54,
+                    59,
+                    60,
+                    61,
+                    63,
+                    64,
+                    80,
+                    88,
+                    89,
+                    91,
+                    92,
+                    94,
+                    95,
+                    96,
+                    101,
+                    105,
+                    106,
+                    108,
+                    109,
+                    113
+                ]
+            }
+        ],
+        "regions": [
+            10
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4348,
+        "displayName": "Pokol-likak és banyaházak a Balaton-felvidéken II.  - 20 (vezetett túra)",
+        "date": 1643410800,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Pokol-likak és banyaházak a Balaton-felvidéken II. 20 (vezetett túra)",
+                "id": 12555,
+                "currency": "HUF",
+                "distance": 18800,
+                "price": 2500,
+                "startTimeFrom": 1643447880,
+                "startTimeTo": 1643447880,
+                "startPlace": {
+                    "latitude": 46.84998485,
+                    "longitude": 17.601062773526,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Kővágóörs",
+                    "Kőtenger",
+                    "Sóstókáli templomrom",
+                    "Pusztapalota romjai",
+                    "Köveskál",
+                    "Köveskáli Városkút banyaháza",
+                    "Nagy-Csere-kút banyaháza",
+                    "Öreg-hegyi-forrás banyaháza",
+                    "Töttöskáli templomrom",
+                    "Kornyi-tó",
+                    "Mosó-forrás banyaháza",
+                    "Kővágóörs"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    67,
+                    72,
+                    75,
+                    76,
+                    77,
+                    79,
+                    80,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            5
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4352,
+        "displayName": "Téli Szuperkatlan 4.0  - Maró Hideg és Szenvedés -30 \/ Jéggé Fagyott Csontok -15",
+        "date": 1643497200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Téli Szuperkatlan 4.0 Maró Hideg és Szenvedés -30",
+                "id": 12583,
+                "currency": "HUF",
+                "distance": 30000,
+                "price": 3000,
+                "startTimeFrom": 1643526000,
+                "startTimeTo": 1643533200,
+                "startPlace": {
+                    "latitude": 47.7164955,
+                    "longitude": 18.7338599,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Dorog",
+                    "Nagy-Gete",
+                    "Hegyeskő",
+                    "Tokodi pincék",
+                    "Kőszikla",
+                    "Mogyorósbánya, Kakukk vendéglő",
+                    "Kőszikla",
+                    "Tokodi pincék",
+                    "Hegyeskő",
+                    "Nagy-Gete",
+                    "Dorog"
+                ],
+                "params": [
+                    1,
+                    7,
+                    37,
+                    42,
+                    43,
+                    48,
+                    49,
+                    50,
+                    51,
+                    54,
+                    57,
+                    58,
+                    59,
+                    60,
+                    63,
+                    66,
+                    68,
+                    76,
+                    77,
+                    81,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    106,
+                    108,
+                    109,
+                    112,
+                    113,
+                    115,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Téli Szuperkatlan 4.0 Jéggé Fagyott Csontok -15",
+                "id": 12584,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 2000,
+                "startTimeFrom": 1580367600,
+                "startTimeTo": 1580374800,
+                "startPlace": {
+                    "latitude": 47.7164955,
+                    "longitude": 18.7338599,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Dorog",
+                    "Nagy-Gete",
+                    "Hegyeskő",
+                    "Tokodi pincék",
+                    "Kőszikla",
+                    "Mogyorósbánya, Kakukk vendéglő"
+                ],
+                "params": [
+                    1,
+                    7,
+                    36,
+                    37,
+                    42,
+                    43,
+                    48,
+                    49,
+                    50,
+                    51,
+                    54,
+                    57,
+                    58,
+                    59,
+                    60,
+                    63,
+                    66,
+                    68,
+                    76,
+                    77,
+                    81,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    106,
+                    108,
+                    109,
+                    112,
+                    113,
+                    119,
+                    120
+                ]
+            }
+        ],
+        "regions": [
+            16
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4353,
+        "displayName": "TéliTótiTúra  - 20 \/ 8",
+        "date": 1643497200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "TéliTótiTúra 20",
+                "id": 12585,
+                "currency": "HUF",
+                "distance": 19800,
+                "price": 2200,
+                "startTimeFrom": 1643522400,
+                "startTimeTo": 1643526000,
+                "startPlace": {
+                    "latitude": 46.85446655,
+                    "longitude": 17.520270924224,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Rajt, Káptalantóti, kézműves piac",
+                    " Csobánc",
+                    "Kézműves piac, indító állomás",
+                    "Gulács",
+                    " Tóti-hegy",
+                    "Cél, Káptalantóti, kézműves piac"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    43,
+                    45,
+                    53,
+                    56,
+                    66,
+                    75,
+                    76,
+                    77,
+                    79,
+                    80,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    96,
+                    105,
+                    106,
+                    112,
+                    113
+                ]
+            },
+            {
+                "displayName": "TéliTótiTúra 8",
+                "id": 12586,
+                "currency": "HUF",
+                "distance": 7800,
+                "price": 1300,
+                "startTimeFrom": 1643522400,
+                "startTimeTo": 1643533200,
+                "startPlace": {
+                    "latitude": 46.85446655,
+                    "longitude": 17.520270924224,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Rajt, Káptalantóti kézműves piac",
+                    "Csobánc",
+                    "Cél, Káptalantóti kézműves piac"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    43,
+                    45,
+                    53,
+                    56,
+                    66,
+                    75,
+                    76,
+                    77,
+                    79,
+                    80,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    94,
+                    96,
+                    105,
+                    106,
+                    113
+                ]
+            }
+        ],
+        "regions": [
+            5
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4365,
+        "displayName": "Téli Bükk Teljesítménytúra  - 30 \/ 15",
+        "date": 1643497200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Téli Bükk Teljesítménytúra 30",
+                "id": 12625,
+                "currency": "HUF",
+                "distance": 29000,
+                "price": 1800,
+                "startTimeFrom": 1643524200,
+                "startTimeTo": 1643527800,
+                "startPlace": {
+                    "latitude": 48.067426,
+                    "longitude": 20.6310609,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Közösségi Ház",
+                    "Széchenyi-emlékfa",
+                    "Hegyes-tető",
+                    "Ágnes-rét",
+                    "IV. Béla emlékmű",
+                    "Lófő-tisztás",
+                    "Bodzás-rét",
+                    "Hollóstető",
+                    "Közösségi Ház"
+                ],
+                "params": [
+                    1,
+                    2,
+                    7,
+                    9,
+                    13,
+                    37,
+                    45,
+                    49,
+                    58,
+                    64,
+                    72,
+                    76,
+                    77,
+                    88,
+                    89,
+                    91,
+                    92,
+                    95,
+                    96,
+                    97,
+                    105,
+                    106,
+                    108,
+                    109,
+                    112,
+                    113,
+                    119,
+                    120
+                ]
+            },
+            {
+                "displayName": "Téli Bükk Teljesítménytúra 15",
+                "id": 12626,
+                "currency": "HUF",
+                "distance": 16000,
+                "price": 1800,
+                "startTimeFrom": 1643527800,
+                "startTimeTo": 1643533200,
+                "startPlace": {
+                    "latitude": 48.067426,
+                    "longitude": 20.6310609,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Közösségi Ház",
+                    "Széchenyi-emlékfa",
+                    "Hegyes-tető",
+                    "Ágnes-rét",
+                    "Közösségi Ház"
+                ],
+                "params": [
+                    1,
+                    2,
+                    7,
+                    9,
+                    13,
+                    37,
+                    45,
+                    49,
+                    58,
+                    64,
+                    76,
+                    77,
+                    88,
+                    89,
+                    91,
+                    92,
+                    95,
+                    96,
+                    97,
+                    105,
+                    106,
+                    108,
+                    109,
+                    112,
+                    113,
+                    119,
+                    120
+                ]
+            }
+        ],
+        "regions": [
+            10
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4366,
+        "displayName": "Fel a Csóványosra!  - Fel a Csóványosra!",
+        "date": 1643497200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Fel a Csóványosra! Fel a Csóványosra!",
+                "id": 12627,
+                "currency": "HUF",
+                "distance": 0,
+                "price": 2000,
+                "startTimeFrom": 1643533200,
+                "startTimeTo": 1643544000,
+                "startPlace": {
+                    "latitude": 47.94908615,
+                    "longitude": 18.9482872052,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "tetszőleges kiindulási hely",
+                    "Csóványos",
+                    "tetszőleges végpont"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    60,
+                    61,
+                    67,
+                    68,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            7
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4195,
+        "displayName": "TRIUMPH  - 15 \/ 10 \/ 3,5",
+        "date": 1643497200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "TRIUMPH 15",
+                "id": 12186,
+                "currency": "HUF",
+                "distance": 15000,
+                "price": 1600,
+                "startTimeFrom": 1643526000,
+                "startTimeTo": 1643540400,
+                "startPlace": {
+                    "latitude": 47.5282706,
+                    "longitude": 18.9550027,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szépjuhászné",
+                    "piros sáv",
+                    "Erzsébet-kilátó",
+                    "piros sáv, kék körséta",
+                    "Sárga + elágazás",
+                    "kék körséta, zöld háromszög",
+                    "Tündér-hegy",
+                    "zöld sáv",
+                    "Ferenc-halom",
+                    "zöld +",
+                    "Kis-Hárs-hegy",
+                    "zöld körséta, sárga sáv",
+                    "Sárga körséta elágazás",
+                    "sárga körséta, piros + ",
+                    "Szépjuhászné út",
+                    "piros sáv",
+                    "Szépjuhászné"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    48,
+                    49,
+                    53,
+                    58,
+                    64,
+                    66,
+                    68,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    96,
+                    97,
+                    98,
+                    101,
+                    102,
+                    105,
+                    106
+                ]
+            },
+            {
+                "displayName": "TRIUMPH 10",
+                "id": 12187,
+                "currency": "HUF",
+                "distance": 10000,
+                "price": 1400,
+                "startTimeFrom": 1643526000,
+                "startTimeTo": 1643544000,
+                "startPlace": {
+                    "latitude": 47.5282706,
+                    "longitude": 18.9550027,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szépjuhászné",
+                    "piros sáv",
+                    "Erzsébet-kilátó",
+                    "piros sáv, kék körséta",
+                    "Sárga + elágazás",
+                    "sárga +, zöld +",
+                    "Makkosmária",
+                    "piros sáv, sárga sáv",
+                    "Szépjuhászné"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    48,
+                    49,
+                    53,
+                    58,
+                    64,
+                    66,
+                    68,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    96,
+                    97,
+                    98,
+                    101,
+                    102,
+                    105,
+                    106
+                ]
+            },
+            {
+                "displayName": "TRIUMPH 3,5",
+                "id": 12188,
+                "currency": "HUF",
+                "distance": 3500,
+                "price": 1200,
+                "startTimeFrom": 1643526000,
+                "startTimeTo": 1643551200,
+                "startPlace": {
+                    "latitude": 47.5282706,
+                    "longitude": 18.9550027,
+                    "country": "hu"
+                },
+                "round": true,
+                "route": [
+                    "Szépjuhászné",
+                    "piros sáv",
+                    "Erzsébet-kilátó",
+                    "piros sáv, zöld háromszög, zöld +",
+                    "Szépjuhászné"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    13,
+                    37,
+                    48,
+                    49,
+                    53,
+                    58,
+                    64,
+                    66,
+                    68,
+                    88,
+                    89,
+                    91,
+                    92,
+                    93,
+                    96,
+                    97,
+                    98,
+                    101,
+                    102,
+                    105,
+                    106
+                ]
+            }
+        ],
+        "regions": [
+            8
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
+    },
+    {
+        "id": 4013,
+        "displayName": "Margit-vonal emléktúra  - 20",
+        "date": 1643497200,
+        "canceled": false,
+        "archived": false,
+        "routes": [
+            {
+                "displayName": "Margit-vonal emléktúra 20",
+                "id": 11695,
+                "currency": "HUF",
+                "distance": 18100,
+                "price": 1500,
+                "startTimeFrom": 1643526000,
+                "startTimeTo": 1643529600,
+                "startPlace": {
+                    "latitude": 47.0597328,
+                    "longitude": 18.0426031,
+                    "country": "hu"
+                },
+                "round": false,
+                "route": [
+                    "Balatonfűzfő",
+                    "Mámai templomrom",
+                    "Balaton-part",
+                    "Árpád-forrás",
+                    "Tátorjános",
+                    "Német katonai temető",
+                    "Balatonkenese",
+                    "4 évszak emlékmű",
+                    "Rákóczi emlékpark",
+                    "Magas-part",
+                    "lőállás",
+                    "Margit-vonal emlékmű",
+                    "Balatonakarattya"
+                ],
+                "params": [
+                    1,
+                    7,
+                    9,
+                    36,
+                    37,
+                    45,
+                    67,
+                    75,
+                    78,
+                    95,
+                    96,
+                    110,
+                    111
+                ]
+            }
+        ],
+        "regions": [
+            5
+        ],
+        "organizer": {
+            "id": {
+                "__initializer__": {},
+                "__cloner__": {},
+                "__isInitialized__": false
+            }
+        }
     }
 ]
