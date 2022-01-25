@@ -25,5 +25,8 @@ for tura in turak:
         #megnézi, hogy benne van-e valamelyik a keresett kifejezések közül
         for kulcs_szo in kulcs_szavak:
             if kulcs_szo in description:
-                print(tura["displayName"], "\t", datetime.date.fromtimestamp(tura["date"]), "\t", f"https://tturak.hu/hikeOccasion/{tura['id']}/details")
+                if tura["cancelled"]:
+                    print(tura["displayName"], "\t", datetime.date.fromtimestamp(tura["date"]), "\t", f"https://tturak.hu/hikeOccasion/{tura['id']}/details", "\t", "elmarad")
+                else:
+                    print(tura["displayName"], "\t", datetime.date.fromtimestamp(tura["date"]), "\t", f"https://tturak.hu/hikeOccasion/{tura['id']}/details")
                 break
